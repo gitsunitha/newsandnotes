@@ -319,15 +319,16 @@ $(document).on("click", ".readArticles", function () {
 $(document).on("click", ".readAnnonatedArticles", function () {
   var elmnt = document.getElementById("annonatedArticlesSection");
   elmnt.scrollIntoView();
-  $("#annonatedArticles").empty();
-  $("#annonatedNotes").empty();
+  $("#annonatedArticlesRow").empty();
   $.getJSON("/annonatedarticles", function (data) {
     // For each one
     for (var i = 0; i < data.length; i++) {
       // Display the apropos information on the page
       console.log(data[i]);
       //build the string to append
-      let cardString =
+      let cardString = "";
+      let notecard_str = "";
+      cardString =
         "<div class='col-9'>" +
         "<div id='annonatedArticles'><div class='card mb-2 newsCard' data-id='" +
         data[i]._id +
@@ -365,23 +366,24 @@ $(document).on("click", ".readAnnonatedArticles", function () {
 
       //add the saved note render
 
-      let notecard_str =
-        "<div class='card mb-2 noteCard'  >" +
-        "<div class='card-body'><h5 class='card-title'>'Save Annotations'</h5>";
       notecard_str =
-        notecard_str +
-        "<input id='titleinput' name='title' >" +
-        "<textarea id='bodyinput' name='body'></textarea></div></div>";
+        "<div class='col-3'>" +
+        "<div id='annotations'><div class='card mb-2 noteCard' data-id='" +
+        data[i].note._id +
+        "'>" +
+        "<div class='card-header'><h5 class='card-title'>Saved Annotations</h5></div>" +
+        "<div class='card-body'>" +
+        "<p><h5>" +
+        data[i].note.title +
+        "</h5></p>" +
+        "<p class='text-muted'>" +
+        data[i].note.body +
+        "</p></div>";
 
-      // If there's a note in the article//there should always be
-      if (data[i].note) {
-        // Place the title of the note in the title input
-        $("#titleinput").val(data[i].note.title);
-        // Place the body of the note in the body textarea
-        $("#bodyinput").val(data[i].note.body);
-      }
+      notecard_str = notecard_str + "</div></div></div>";
       // The title of the article
       $("#annonatedArticlesRow").append(cardString);
+      $("#annonatedArticlesRow").append(notecard_str);
     }
   });
 });
