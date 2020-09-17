@@ -15,6 +15,7 @@ $.getJSON("/articles", function (data) {
         "<img src='" +
         data[i].image +
         "' class='card-img-top' ></img>";
+<<<<<<< HEAD
     }
     cardString =
       cardString +
@@ -25,6 +26,18 @@ $.getJSON("/articles", function (data) {
     if (data[i].summary) {
       cardString = cardString + "<p>" + data[i].summary + "</p>";
     }
+=======
+    }
+    cardString =
+      cardString +
+      "<div class='card-header'><h5>" +
+      data[i].title +
+      "</h5></div>" +
+      "<div class='card-body'>";
+    if (data[i].summary) {
+      cardString = cardString + "<p>" + data[i].summary + "</p>";
+    }
+>>>>>>> 417dacd7bfdef543aa36728140e5ab585c7bc7a7
     if (data[i].timestamp) {
       cardString =
         cardString + "<p class='text-muted'>" + data[i].timestamp + "</p>";
@@ -155,6 +168,7 @@ $(document).on("click", ".createNote", function () {
         "<div class='card-body'><h5 class='card-title'>'" +
         data.title +
         "'</h5>";
+<<<<<<< HEAD
       notecard_str =
         notecard_str +
         "<input id='titleinput' name='title' >" +
@@ -165,6 +179,21 @@ $(document).on("click", ".createNote", function () {
 
       // The title of the article
       $("#notes").append(notecard_str);
+=======
+
+      // The title of the article
+      $("#notes").append(notecard_str);
+      // An input to enter a new title
+      $("#notes").append("<input id='titleinput' name='title' >");
+      // A textarea to add a new note body
+      $("#notes").append("<textarea id='bodyinput' name='body'></textarea>");
+      // A button to submit a new note, with the id of the article saved to it
+      $("#notes").append(
+        "<button data-id='" +
+          data._id +
+          "' id='savenote'>Save Note</button></div></div>"
+      );
+>>>>>>> 417dacd7bfdef543aa36728140e5ab585c7bc7a7
 
       // If there's a note in the article
       if (data.note) {

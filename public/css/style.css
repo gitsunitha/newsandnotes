@@ -31,6 +31,7 @@
 
 }
 #articles{
+<<<<<<< HEAD
   width:1-0%
 }
 #titleinput,
@@ -38,3 +39,7 @@
   display: block;
   width: 100%;
   background-color:lightgray;
+=======
+  width:60%
+}
+>>>>>>> 417dacd7bfdef543aa36728140e5ab585c7bc7a7
