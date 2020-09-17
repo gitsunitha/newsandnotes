@@ -1,6 +1,5 @@
 //Grab the articles as a json
 $.getJSON("/articles", function (data) {
-  debugger;
   // For each one
   $("#articles").empty();
   for (var i = 0; i < data.length; i++) {
@@ -117,63 +116,69 @@ $.getJSON("/articles", function (data) {
 // });
 
 $(document).on("click", ".scrapeNow", function () {
-  debugger;
   console.log("inside scrape ");
   // Now make a call for scraping
   $.getJSON("/scrape", function (data) {
-    console.log(data);
-    if (data.length > 0) {
-      $(".articles").emmpty();
-      $(".articles").append(
-        "<p>Scraped " +
-          data[0].ArticlesScraped +
-          " Articles</p>" +
-          "<p><button class='btn btn-lg btn-primary readArticles'>Show Articles</button></p>"
-      );
+    if (data.ArticlesScraped > 0) {
+      var elmnt = document.getElementById("homebody");
+      elmnt.scrollIntoView();
+      // $(".articles").empty();
+      // $(".articles").append(
+      //   "<div class='card mb-2' >" +
+      //     "<div class='card-header'><h5>" +
+      //     "All old Articles have been cleared" +
+      //     "</h5></div>" +
+      //     "<div class='card-body scrapeArticles'>" +
+      //     "<p>Scraped " +
+      //     data.ArticlesScraped +
+      //     " Articles</p>" +
+      //     "<p><button class='btn btn-lg btn-primary readArticles'>Show Articles</button></p>" +
+      //     "</div>" +
+      //     "</div>"
+      // );
     }
   });
 });
+
 // Whenever someone clicks on the card
 $(document).on("click", ".createNote", function () {
-  debugger;
   console.log("inside create note");
   // Empty the notes from the note section
   $("#notes").empty();
-  // Save the id from the p tag
+  // Save the id from the button
   var thisId = $(this).attr("data-id");
 
-  // Now make an ajax call for the Article
   $.ajax({
     method: "GET",
     url: "/articles/" + thisId,
-  })
-    // With that done, add the note information to the page
-    .then(function (data) {
-      console.log(data);
-      let notecard_str =
-        "<div class='card mb-2 noteCard'  >" +
-        "<div class='card-body'><h5 class='card-title'>'" +
-        data.title +
-        "'</h5>";
-      notecard_str =
-        notecard_str +
-        "<input id='titleinput' name='title' >" +
-        "<textarea id='bodyinput' name='body'></textarea>" +
-        "<button data-id='" +
-        data._id +
-        "' id='savenote'>Save Note</button></div></div>";
+  }).then(function (data) {
+    console.log(data);
+    let notecard_str =
+      "<div class='card mb-2 noteCard'  >" +
+      "<div class='card-body'><h5 class='card-title'>'" +
+      data.title +
+      "'</h5>";
+    notecard_str =
+      notecard_str +
+      "<input id='titleinput' name='title' >" +
+      "<textarea id='bodyinput' name='body'></textarea>" +
+      "<button data-id='" +
+      data._id +
+      "' id='savenote'>Save Note</button></div></div>";
 
-      // The title of the article
-      $("#notes").append(notecard_str);
+    $("#notes").append(notecard_str);
 
-      // If there's a note in the article
-      if (data.note) {
-        // Place the title of the note in the title input
-        $("#titleinput").val(data.note.title);
-        // Place the body of the note in the body textarea
-        $("#bodyinput").val(data.note.body);
-      }
-    });
+    // If there's a note in the article
+    if (data.note) {
+      // Place the title of the note in the title input
+      $("#titleinput").val(data.note.title);
+      // Place the body of the note in the body textarea
+      $("#bodyinput").val(data.note.body);
+    }
+  });
+
+  let elmnt = document.getElementById("articlesSection");
+  elmnt.scrollIntoView();
 });
 
 $(document).on("click", ".clearOldArticles", function () {
@@ -191,7 +196,7 @@ $(document).on("click", ".clearOldArticles", function () {
     .then(function (data) {
       console.log(`Resturned value ${data}`);
       if (data.length > 0 && data.message === "Articles cleared") {
-        var elmnt = document.getElementById("articlesSection");
+        let elmnt = document.getElementById("articlesSection");
         elmnt.scrollIntoView();
         $("#articles").empty();
         $("#articles").append(
@@ -213,7 +218,6 @@ $(document).on("click", ".clearOldArticles", function () {
 
 // When you click the savenote button
 $(document).on("click", "#savenote", function () {
-  debugger;
   // Grab the id associated with the article from the submit button
   var thisId = $(this).attr("data-id");
 
@@ -243,7 +247,6 @@ $(document).on("click", "#savenote", function () {
 
 //switch to read article view
 $(document).on("click", ".readArticles", function () {
-  debugger;
   var elmnt = document.getElementById("articlesSection");
   elmnt.scrollIntoView();
   $("#articles").empty();
@@ -281,7 +284,9 @@ $(document).on("click", ".readArticles", function () {
           "<a href='" +
           data[i].link +
           "' class=' btn btn-primary card-link text-blue'>Link to the article</a>" +
-          "<a href='#' class=' btn btn-primary card-link text-blue createNote'>Create Note</a>" +
+          "<a href='#' data-id='" +
+          data[i]._id +
+          "' class=' btn btn-primary card-link text-blue createNote'>Create Note</a>" +
           "</div>" +
           "<div class='card-footer'>Scraped on " +
           data[i].date +
@@ -312,7 +317,6 @@ $(document).on("click", ".readArticles", function () {
 
 //switch to read article that are annonated
 $(document).on("click", ".readAnnonatedArticles", function () {
-  debugger;
   var elmnt = document.getElementById("annonatedArticlesSection");
   elmnt.scrollIntoView();
   $("#annonatedArticles").empty();

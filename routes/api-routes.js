@@ -198,12 +198,10 @@ module.exports = function (app) {
     console.log("Entered function clearOldArticles");
     db.Article.deleteMany({})
       .then(function (dbArticle) {
-        console.log(`removed ${dbArticle}`);
-        console.log(dbArticle);
-        return db.Note.deleteMany({})
-
+        console.log(`removed ${JSON.stringify(dbArticle)}`);
+        db.Note.deleteMany({})
           .then(function (dbNote) {
-            console.log(`removed notes ${dbNote}`);
+            console.log(`removed notes ${JSON.stringify(dbNote)}`);
           })
           .catch(function (err) {
             res.json({ message: "Annotations may not have been cleared" });
@@ -249,7 +247,7 @@ module.exports = function (app) {
         res.json(err);
       });
   });
-  
+
   // Route for grabbing a specific Article by id, populate it with it's note
   app.get("/articles/:id", function (req, res) {
     // Using the id passed in the id parameter, prepare a query that finds the matching one in our db...
