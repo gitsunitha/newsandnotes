@@ -2,7 +2,7 @@
 $.getJSON("/articles", function (data) {
   debugger;
   // For each one
-  $("#article").empty();
+  $("#articles").empty();
   for (var i = 0; i < data.length; i++) {
     // Display the apropos information on the page
 
@@ -15,7 +15,6 @@ $.getJSON("/articles", function (data) {
         "<img src='" +
         data[i].image +
         "' class='card-img-top' ></img>";
-<<<<<<< HEAD
     }
     cardString =
       cardString +
@@ -26,18 +25,6 @@ $.getJSON("/articles", function (data) {
     if (data[i].summary) {
       cardString = cardString + "<p>" + data[i].summary + "</p>";
     }
-=======
-    }
-    cardString =
-      cardString +
-      "<div class='card-header'><h5>" +
-      data[i].title +
-      "</h5></div>" +
-      "<div class='card-body'>";
-    if (data[i].summary) {
-      cardString = cardString + "<p>" + data[i].summary + "</p>";
-    }
->>>>>>> 417dacd7bfdef543aa36728140e5ab585c7bc7a7
     if (data[i].timestamp) {
       cardString =
         cardString + "<p class='text-muted'>" + data[i].timestamp + "</p>";
@@ -136,8 +123,8 @@ $(document).on("click", ".scrapeNow", function () {
   $.getJSON("/scrape", function (data) {
     console.log(data);
     if (data.length > 0) {
-      $(".scrapeArticles").emmpty();
-      $(".scrapeArticles").append(
+      $(".articles").emmpty();
+      $(".articles").append(
         "<p>Scraped " +
           data[0].ArticlesScraped +
           " Articles</p>" +
@@ -168,7 +155,6 @@ $(document).on("click", ".createNote", function () {
         "<div class='card-body'><h5 class='card-title'>'" +
         data.title +
         "'</h5>";
-<<<<<<< HEAD
       notecard_str =
         notecard_str +
         "<input id='titleinput' name='title' >" +
@@ -179,21 +165,6 @@ $(document).on("click", ".createNote", function () {
 
       // The title of the article
       $("#notes").append(notecard_str);
-=======
-
-      // The title of the article
-      $("#notes").append(notecard_str);
-      // An input to enter a new title
-      $("#notes").append("<input id='titleinput' name='title' >");
-      // A textarea to add a new note body
-      $("#notes").append("<textarea id='bodyinput' name='body'></textarea>");
-      // A button to submit a new note, with the id of the article saved to it
-      $("#notes").append(
-        "<button data-id='" +
-          data._id +
-          "' id='savenote'>Save Note</button></div></div>"
-      );
->>>>>>> 417dacd7bfdef543aa36728140e5ab585c7bc7a7
 
       // If there's a note in the article
       if (data.note) {
@@ -275,48 +246,66 @@ $(document).on("click", ".readArticles", function () {
   debugger;
   var elmnt = document.getElementById("articlesSection");
   elmnt.scrollIntoView();
-  $("#article").empty();
+  $("#articles").empty();
   $.getJSON("/articles", function (data) {
-    // For each one
-    for (var i = 0; i < data.length; i++) {
-      // Display the apropos information on the page
-      console.log(data[i]);
-      //build the string to append
-      let cardString =
-        "<div class='card mb-2 newsCard' data-id='" + data[i]._id + "'>";
-      if (data[i].image) {
+    if (data.length > 0) {
+      // For each one
+      for (var i = 0; i < data.length; i++) {
+        // Display the apropos information on the page
+        console.log(data[i]);
+        //build the string to append
+        let cardString =
+          "<div class='card mb-2 newsCard' data-id='" + data[i]._id + "'>";
+        if (data[i].image) {
+          cardString =
+            cardString +
+            "<img src='" +
+            data[i].image +
+            "' class='card-img-top' ></img>";
+        }
         cardString =
           cardString +
-          "<img src='" +
-          data[i].image +
-          "' class='card-img-top' ></img>";
-      }
-      cardString =
-        cardString +
-        "<div class='card-header'><h5>" +
-        data[i].title +
-        "</h5></div>" +
-        "<div class='card-body'>";
-      if (data[i].summary) {
-        cardString = cardString + "<p>" + data[i].summary + "</p>";
-      }
-      if (data[i].timestamp) {
+          "<div class='card-header'><h5>" +
+          data[i].title +
+          "</h5></div>" +
+          "<div class='card-body'>";
+        if (data[i].summary) {
+          cardString = cardString + "<p>" + data[i].summary + "</p>";
+        }
+        if (data[i].timestamp) {
+          cardString =
+            cardString + "<p class='text-muted'>" + data[i].timestamp + "</p>";
+        }
         cardString =
-          cardString + "<p class='text-muted'>" + data[i].timestamp + "</p>";
-      }
-      cardString =
-        cardString +
-        "<a href='" +
-        data[i].link +
-        "' class=' btn btn-primary card-link text-blue'>Link to the article</a>" +
-        "<a href='#' class=' btn btn-primary card-link text-blue createNote'>Create Note</a>" +
-        "</div>" +
-        "<div class='card-footer'>Scraped on " +
-        data[i].date +
-        "</div>" +
-        "</div>";
+          cardString +
+          "<a href='" +
+          data[i].link +
+          "' class=' btn btn-primary card-link text-blue'>Link to the article</a>" +
+          "<a href='#' class=' btn btn-primary card-link text-blue createNote'>Create Note</a>" +
+          "</div>" +
+          "<div class='card-footer'>Scraped on " +
+          data[i].date +
+          "</div>" +
+          "</div>";
 
-      $("#articles").append(cardString);
+        $("#articles").append(cardString);
+      }
+    } else {
+      $("#articles").append(
+        "<div class='card mb-2' >" +
+          "<div class='card-header'><h5>" +
+          "No News Articles have been scraped today" +
+          "</h5></div>" +
+          "<div class='card-body scrapeArticles'>" +
+          "<p>" +
+          "Please get the latest articles" +
+          "</p>" +
+          "<p><button class='btn btn-lg btn-primary scrapeNow'>Get latest articles now</button></p>" +
+          "</div>" +
+          "</div>"
+      );
+
+      //no articles ask to scrape
     }
   });
 });
