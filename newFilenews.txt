@@ -1,0 +1,1464 @@
+<!--[if !IE]> App Server /produs--i-0f8436904905e19bb/ <![endif]-->
+
+<!doctype html><html lang="en"><head>
+<title>World News | Reuters.com</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="utf-8"><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="//s1.reutersmedia.net"/><link rel="dns-prefetch" href="//s2.reutersmedia.net"/><link rel="dns-prefetch" href="//s3.reutersmedia.net"/><link rel="dns-prefetch" href="//s4.reutersmedia.net"/><link rel="dns-prefetch" href="//static.reuters.com"/><link rel="dns-prefetch" href="//www.googletagservices.com"/><link rel="dns-prefetch" href="//www.googletagmanager.com"/><link rel="dns-prefetch" href="//www.google-analytics.com"/><link rel="dns-prefetch" href="//static.chartbeat.com"/><meta name="robots" content="INDEX, FOLLOW">
+
+<!-- Segment -->
+<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("IEWBqQ8VWHijTQxb7lEBGFGS9uIJzigZ");
+  }}();
+    </script>
+
+<!-- Page hiding snippet  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+})(window,document.documentElement,'async-hide','dataLayer',2000,{'GTM-W9SLGS':true});
+</script> 
+
+<!-- Data Layer Object Declaration -->
+<script>window.dataLayer = window.dataLayer || [];</script>
+
+<!-- New Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+    {'gtm.start': new Date().getTime(),event:'gtm.js'}
+    );var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W9SLGS');</script>
+<!-- End Google Tag Manager -->
+
+<style>
+@font-face { font-family: 'knowledge-reg'; src: url('//static.reutersmedia.net/resources_v2/fonts/Knowledge-Regular.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'knowledge-light'; src: url('//static.reutersmedia.net/resources_v2/fonts/Knowledge-Light.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'knowledge-medium'; src: url('//static.reutersmedia.net/resources_v2/fonts/Knowledge-Medium.woff') format('woff'); font-weight: normal; font-style: normal; }
+</style><script src='//cdn.adsafeprotected.com/iasPET.1.js' async></script><div class="linebreak"></div>
+<script type="text/javascript" src="//www.reuters.com/reuters_bootstrap.js"></script><script type="text/javascript" src="//www.reuters.com/reuters_gpt_bootstrap.js"></script>
+<script type="text/javascript">var abp;</script><script type="text/javascript" src="//s4.reutersmedia.net/resources_v2/js/px.js?ch=1"></script><script type="text/javascript" src="//s4.reutersmedia.net/resources_v2/js/px.js?ch=2"></script>
+<script type="text/javascript">
+var parallelMediaHosts = new Array();
+parallelMediaHosts.push("s1.reutersmedia.net");parallelMediaHosts.push("s2.reutersmedia.net");parallelMediaHosts.push("s3.reutersmedia.net");parallelMediaHosts.push("s4.reutersmedia.net");</script>
+
+<meta name="DCSext.DartZone" content="reuters.com/world/home" />
+<meta name="analyticsAttributes.channel" content="Landing - News" />
+<meta name="analyticsAttributes.contentType" content="Landing Page" />
+<meta name="analyticsAttributes.contentChannel" content="World - World" />
+<meta name="analyticsAttributes.topicChannel" content="World" />
+<meta name="analyticsAttributes.topicSubChannel" content="World Home" />
+
+<link rel="canonical" href="https://www.reuters.com/news/world" />
+<meta name="analyticsAttributes.author" content="Reuters Editorial" />
+<meta name="analyticsAttributes.canonicalUrl" content="https://www.reuters.com/news/world" />
+<meta name="analyticsAttributes.contentTitle" content="World News | Reuters.com" />
+<meta name="analyticsAttributes.edition" content="U.S." />
+
+<meta name="author" content="Reuters Editorial" />
+<meta name="description" content="Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage." />
+<meta name="keywords" content="International news,world news,global news,worldwide,Rueters,Roiters" />
+<meta name="news_keywords" content="International news;world news;global news;worldwide;Rueters;Roiters" />
+
+<meta property="og:description" content="Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage." />
+<meta property="og:image" content="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="U.S." />
+<meta property="og:title" content="World News | Reuters.com" />
+<meta property="og:type" content="section" />
+<meta property="og:url" content="https://www.reuters.com/news/world" />
+
+<meta name="twitter:card" content="summary_large_image" /> 
+<meta name="twitter:description" content="Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage." />
+<meta name="twitter:image" content="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png" />
+<meta name="twitter:title" content="World News | Reuters.com" />
+<meta name="twitter:site" content="@Reuters" />
+<meta name="twitter:creator" content="@Reuters" />
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "headline": "World News | Reuters.com",
+        "url": "https://www.reuters.com/news/world",
+        "thumbnailUrl": "",
+        "dateCreated": "",
+        "description": "Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.",
+        "publisher": "Reuters",
+        "creator": [],
+        "keywords": ["International news","world news","global news","worldwide","Rueters","Roiters","World Home"]
+    }
+</script>
+
+
+<script>
+if (abp == false || abp == '0'){ adBlocked = '0'; } else { adBlocked = '1'; }
+analytics.page('World Home', {
+    canonical_url: 'https://www.reuters.com/news/world',
+    content_channel: 'World - World Home',
+    content_type: 'Landing Page',
+    content_type_channel: 'Landing - News',
+    edition: 'U.S.',
+    keywords: 'International news,world news,global news,worldwide,Rueters,Roiters',
+    topic_channel: 'World',
+    topic_sub_channel: 'World Home',
+    ad_blocked: adBlocked,
+    platform: 'Desktop',
+    page_view_type: 'Page Load',
+    landing_sponsored: 'false', 
+    pageView: '1'
+});
+if (document.referrer.indexOf('/article/') > -1) {
+    analytics.track('article.recirculation', {
+        canonical_url: 'https://www.reuters.com/news/world',
+        content_channel: 'World - World Home',
+        content_type: 'Landing Page',
+        content_type_channel: 'Landing - News',
+        edition: 'U.S.',
+        keywords: 'International news,world news,global news,worldwide,Rueters,Roiters',
+        topic_channel: 'World',
+        topic_sub_channel: 'World Home',
+        ad_blocked: adBlocked,
+        platform: 'Desktop',
+        page_view_type: 'Page Load',
+        landing_sponsored: 'false', 
+        pageView: '1',
+        category: 'Article',
+        label: 'World Home',
+        nonInteraction: '0',
+        articleRecirculation: '1'
+    });
+}
+window.article_platform = 'Desktop';
+window.article_edition = 'U.S.';
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="https://s3.reutersmedia.net/resources_v2/images/favicon/favicon.ico" />
+<link rel="icon" type="image/png" href="https://s3.reutersmedia.net/resources_v2/images/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://s1.reutersmedia.net/resources_v2/images/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://s3.reutersmedia.net/resources_v2/images/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="stylesheet" type="text/css" href="https://s2.reutersmedia.net/resources_v2/css/core.css" />
+<link rel="stylesheet" type="text/css" href="https://s4.reutersmedia.net/resources_v2/css/core-modules.css" />
+    <script src="https://s3.reutersmedia.net/resources_v2/js/libraries/jquery-2.2.4.min.js" type="text/javascript"></script>
+
+<style>
+.pageSponsor {
+    position: absolute;
+    top: -10px;
+    right: 0;
+    margin: 0;
+}
+.landing .load-more-content.active{
+    padding: 0 0 8px;
+}
+.landing .load-more-link{
+    margin-bottom: 32px;
+}
+.header.module-header h5.module-desc{
+    font-family: knowledge-reg,helvetica,arial,sans-serif;
+}
+
+.news-headline-list.news-horizontal-overflow article.featured-article .story-photo{
+    width: 100%;
+    float: none;
+    overflow: hidden;
+}
+.news-horizontal-overflow article.story.featured-article{
+    background: #fff;
+}
+.news-headline-list.news-horizontal-overflow article.featured-article .story-photo{
+    opacity: 1;
+    width: 780px;
+    height: 439px;
+}
+.news-horizontal-overflow .story-content {
+    position: absolute;
+    bottom: 0;
+    padding: 0;
+    left: 0px;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.75) 0, rgba(0, 0, 0, 0) 100%) !important;
+    height: 90px;
+    width: 71%;
+}
+.news-horizontal-overflow .story-content a{
+    color: #fff !important;
+    padding: 0 20px !important;
+    display: block;
+}
+.news-horizontal-overflow .story-content a:hover{
+    color: #f80 !important;
+}
+.news-horizontal-overflow h2.story-title{
+    line-height: 1.05em;
+    font-size: 30px !important;
+    font-family: knowledge-medium, helvetica, arial, sans-serif;
+    font-weight: 400;
+}
+.news-headline-list img{
+    width: 100%;
+}
+
+/* Modules */
+/* Tri */
+.news-horizontal-tri.news-headline-list .story{
+    width: 246px;
+    padding-right: 21px;
+}
+.news-horizontal-tri.news-headline-list .story:last-child{
+    padding-right: 0;
+}
+.news-horizontal-tri.news-headline-list .story .story-photo{
+    width: 246px;
+    height: 164px;
+    margin: 0;
+}
+.news-horizontal-tri.news-headline-list h2.story-title{
+    margin: 16px 0 44px;
+    font-size: 2.2em;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.news-horizontal-tri.news-headline-list.small h2.story-title,
+.news-horizontal-tri.news-headline-list.small h3.story-title{
+    font-size: 1.8em;
+    line-height: 21px;
+    font-weight: 500;
+    margin: 12px 0;
+}
+
+/* Ad */
+.module-evergreen .gpt-sponsored-mod{
+    position: absolute;
+    right: 12px;
+    top: 2px;
+}
+
+/* Video */
+.video-module .video.featured figure {
+    float: none;
+    width: 300px;
+    height: auto;
+    margin: 0 0 14px 0;
+}
+.video-module .video.featured {
+    float: left;
+    width: 300px;
+    height: auto;
+    margin-left: 0;
+    padding: 0 10px 14px 0;
+    border: none;
+}
+.video-module .video {
+    display: inline-block;
+    width: 300px;
+    margin-left: 0px;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+}
+
+.mod-video.mod-video-dark .video-icon,
+.mod-slideshow.mod-slideshow .pictures-icon {
+    position: absolute;
+    top: -37px;
+    left: 0;
+}
+.mod-video.mod-video-dark header.module-header{
+    margin-left: 30px;
+}
+
+/* RSS */
+.mod-rss .story .story-photo{
+    display: none;
+}
+.mod-rss.mod-rss-horizontal .story{
+    padding: 0;
+    float: left;
+    width: 245px;
+    margin-right: 20px;
+    vertical-align: top;
+}
+.mod-rss.mod-rss-horizontal .story:last-child{
+    margin-right: 0;
+}
+.mod-rss.mod-rss-vertical .story{
+    padding: 18px 0;
+    border-bottom: 1px solid #ddd;
+}
+.mod-rss.mod-rss-vertical .story:first-child{
+    padding-top: 0;
+}
+
+/* Legacy */
+.module-table-legacy .leftLabel{
+    background: #f5f5f5;
+    border: none;
+    width: 100%;
+    padding: 10px 0;
+    font-size: 1.2em;
+}
+.module-table-legacy .leftLabel strong{
+    margin-left: 10px;
+}
+.module-table-legacy .leftLabel .dateMenu{
+    margin: 0 10px 0 0;
+    padding: 0;
+}
+.module-table-legacy .leftLabel .reportLinks{
+    padding: 0;
+}
+.module-table-legacy .headerTime{
+    padding: 0;
+}
+.module-table-legacy table{
+    margin-bottom: 24px;
+}
+.module-table-legacy table,
+.module-table-legacy.markets-table td{
+    text-align: left;
+    font-size: 14px;
+}
+.module-table-legacy table th{
+    font-size: 1.2em;
+}
+.module-table-legacy .tabs ul{
+    margin: 0;
+    padding: 0;
+}
+.module-table-legacy .tabs ul li{
+    float: left;
+    list-style: none;
+}
+.module-table-legacy .tabs ul li a {
+    padding: 8px 20px;
+    font-size: 1.4em;
+    text-transform: uppercase;
+}
+.module-table-legacy .tabs ul li.current a,
+.module-table-legacy .tabs ul li a:hover {
+    background: #f5f5f5;
+}
+.module-table-legacy h3 {
+    border-bottom: 1px solid #ff8000;
+    color: #333;
+    font-family: knowledge-light,helvetica,arial,sans-serif;
+    font-weight: 300;
+    font-size: 2.1em;
+    line-height: 1.2em;
+    margin: 0 0 20px 0;
+    padding-bottom: 2px;
+    text-transform: uppercase;
+    position: relative;
+}
+.module-table-legacy .moduleBody .timestamp{
+    margin: 0 0 20px 0;
+    display: inline-block;
+    width: 100%;
+}
+.module-table-legacy .data.changeUp {
+    color: #46AE32;
+}
+.module-table-legacy .data.changeDown{
+    color: #D80A0A;
+}
+
+.module.mod-video.mod-video-dark,
+.module.mod-slideshow.mod-slideshow-dark{
+    display: block;
+}
+
+/* Right Rail*/
+.column2 .news-headline-list article{
+    padding: 18px 0;
+    border-bottom: 1px solid #ddd;
+}
+.column2 .news-headline-list article.featured-article .story-photo{
+	width: 100%;
+    height: auto;
+}
+.column2 .news-headline-list article .story-photo{
+	width: 140px;
+	height: 90px;
+}
+.column2 .news-headline-list .featured-article h3.story-title{
+    font-size: 2.4em;
+    line-height: 26px;
+}
+.column2 .mod-iframe iframe{
+    width: 100%;
+}
+.column2 .news-headline-list ul {
+    margin: 0;
+    padding: 0 0 0 14px;
+}
+.column2 .news-headline-list ul li{
+    color: #666;
+    font-size: 1.4em;
+    line-height: 18px;
+}
+
+/* Video */
+.column2 .video-module .video {
+    padding: 18px 0;
+}
+.column2 .video-module .video.featured{
+    padding: 0 0 18px 0;
+}
+/* Slideshow */
+.column2 .slideshow-container{
+    margin: 0;
+}
+.column2 .slideshow-container .photo-container {
+    width: 100%;
+    padding: 0 0 18px 0;
+}
+.column2 .slideshow-container time.article-time {
+    display: none;
+}
+.column2 .slideshow-container .photo-container img{
+    min-width: auto;
+}
+.column2 .mod-slideshow .photo-container {
+    padding: 18px 0;
+    border-bottom: 1px solid #ddd;
+}
+.column2 .mod-slideshow.mod-slideshow-dark .photo-container{
+    border-bottom: 1px solid #666;
+}
+.column2 .mod-slideshow.mod-slideshow-dark .photo-container:last-child{
+    border: none;
+}
+.column2 .mod-slideshow .photo-container:first-child {
+    padding: 0 0 18px 0;
+}
+.column2 .mod-slideshow .photo-container .photo-thumb{
+    overflow: hidden;
+    float: left;
+    margin: 0 20px 0 0;
+    width: 140px;
+    height: 90px;
+    background-size: 70px;
+}
+.column2 .mod-slideshow .photo-container .photo-thumb img{
+    width: 100%;
+}
+
+.column2 .mod-slideshow .photo-container:first-child .photo-thumb{
+    width: 100%;
+    height: auto;
+    margin: 0 0 10px 0;
+    float: none;
+}
+.column2 .mod-slideshow h3.photo-heading{
+    font-size: 1.8em;
+    margin: 0 0 8px 0;
+    line-height: 21px;
+}
+.column2 .mod-slideshow .slide-blurb{
+    display: none;
+}
+.column2 .mod-slideshow .photo-container:first-child .slide-blurb{
+    display: block;
+    color: #999;
+}
+
+
+/* Markets */
+.column2 #markets-module ul li{
+    list-style: none;
+}
+#markets-module .tabs ul{
+    margin: 0;
+    padding: 0 0 0 8px;
+}
+.column2 #markets-module .tabs ul li{
+    float: left;
+    font-size: 1.3em;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.column2 #markets-module .tabs ul li span{
+    display: inline-block;
+}
+.column2 #markets-module .module{
+    padding: 0;
+}
+.column2 #markets-module .moreLink {
+    font-size: 1.2em;
+    top: 10px;
+}
+
+/* CMS BUDDY */
+.mod-cmsbuddy .moduleHeader h3{
+    border-bottom: 1px solid #ff8000;
+    color: #333;
+    font-family: knowledge-light,helvetica,arial,sans-serif;
+    font-weight: 300;
+    font-size: 2.1em;
+    line-height: 1.2em;
+    margin: 0 0 18px 0;
+    padding-bottom: 2px;
+    text-transform: uppercase;
+    position: relative;
+    display: block;
+}
+.mod-cmsbuddy .moduleBody h2{
+    font-size: 1.8em;
+    line-height: 21px;
+    display: inline-block;
+    margin-bottom: 6px;
+    font-family: knowledge-medium,helvetica,arial,sans-serif;
+    font-weight: 500;
+}
+.column1 .mod-cmsbuddy .bigStory h2{
+    font-size: 2.4em;
+    line-height: 26px;
+}
+.column2 .mod-cmsbuddy .moduleBody .photo{
+    margin-bottom: 10px;
+}
+.mod-cmsbuddy .moduleBody ul{
+    padding: 0 0 0 15px;
+}
+.mod-cmsbuddy .moduleBody ul li{
+    margin-bottom: 4px;
+}
+.mod-cmsbuddy .moduleBody p,
+.mod-cmsbuddy .moduleBody ul li{
+    color: #666;
+    font-size: 1.4em;
+    line-height: 18px;
+    word-wrap: break-word;
+}
+.mod-cms-buddy .moreLink{
+    display: none;
+}
+
+.column1 .mod-cmsbuddy {
+    padding: 18px 0;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 18px;
+}
+.column1 .mod-cmsbuddy .module{
+    margin: 0;
+    padding: 0;
+}
+
+.column1 .mod-cmsbuddy .photo{
+    overflow: hidden;
+    float: left;
+    margin: 0 20px 0 0;
+    height: 120px;
+    width: 190px;
+}
+.column1 .mod-cmsbuddy .bigStory .photo{
+    width: 100%;
+    height: auto;
+    clear: both;
+}
+.column1 .mod-cmsbuddy .story-info,
+.column1 .mod-cmsbuddy h2{
+    overflow: hidden;
+    width: 550px;
+}
+
+/* Misc */
+.news-headline-list  #div_gpt_bi_content {
+    border-bottom: 1px solid #ddd;
+    padding: 18px 0;
+}
+.mod-video.mod-video-dark header.module-header h4,
+.mod-slideshow.mod-slideshow-dark header.module-header h4{
+	color: #fff;
+	padding-bottom: 10px;
+}
+header.module-header h4.module-heading-lrg a{
+	background-position: right -264px;
+}
+
+header.module-header h4.module-heading-lrg a:hover{
+	background-position: right -298px;
+}
+
+.mod-video-full.mod-video.mod-video-dark.mod-video-horizontal .video {
+    width: 252px;
+}
+.mod-video-full.mod-video.mod-video-dark.mod-video-horizontal .video figure {
+    width: 252px;
+    height: 140px;
+}
+
+@media(max-width:1200px) {
+    .news-horizontal-overflow .story-content,
+    .news-headline-list article.featured-article .story-photo,
+    .news-headline-list.news-horizontal-overflow article.featured-article .story-photo {
+        width: 620px !important;
+    }
+    .news-headline-list article.featured-article .story-photo{width:940px;}
+    .column2 .news-headline-list article.featured-article .story-photo{
+        width: 300px !important;
+    }
+    .news-headline-list.news-horizontal-overflow article.featured-article .story-photo{
+        height: 349px !important;
+    }
+    .mod-rss.mod-rss-horizontal .story{
+        width: 183px;
+    }
+    .news-horizontal-tri.news-headline-list .story,
+    .news-horizontal-tri.news-headline-list .story .story-photo{
+        width: 192px;
+    }
+    .news-horizontal-tri.news-headline-list .story .story-photo{
+        height: 128px;
+    }
+    .column1 .module-table-legacy .headerTime{
+        padding: 8px 0;
+        display: inline-block;
+    }
+    .column1 .module-table-legacy .headerTime strong{
+        margin: 0;
+    }
+    .column1 .module-table-legacy.markets-table td{
+        min-width: 90px;
+    }
+    .column1 .mod-cmsbuddy .story-info,
+    .column1 .mod-cmsbuddy h2{
+        width: 410px;
+    }
+    .mod-video-full.mod-video.mod-video-dark.mod-video-horizontal .video{
+        width: 212px;
+    }
+    .mod-video-full.mod-video.mod-video-dark.mod-video-horizontal .video figure {
+        width: 212px;
+        height: 121px;
+    }
+}
+</style><script src="https://s2.reutersmedia.net/resources_v2/js/libraries/cookie.js" type="text/javascript"></script>
+<script src="https://s2.reutersmedia.net/resources_v2/js/core.js" type="text/javascript"></script>
+<script src="https://s2.reutersmedia.net/resources_v2/js/search.js" type="text/javascript"></script>
+<script type='text/javascript'>
+        var _sf_async_config = _sf_async_config || {};
+        _sf_async_config.uid = 52639; 
+        _sf_async_config.domain = 'reuters.com';  
+        _sf_async_config.topStorageDomain = 'reuters.com'; 
+        _sf_async_config.path = document.querySelector("link[rel='canonical']").getAttribute("href").replace('http://www.', '').replace('https://www.', ''); 
+        _sf_async_config.flickerControl = false;
+        var _sf_startpt = (new Date()).getTime();
+    </script><script async src='//static.chartbeat.com/js/chartbeat_mab.js'></script></head>
+<body class="BETAUS ">
+    <!-- New Google Tag Manager (noscript) -->
+         <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W9SLGS"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+    <!-- End Google Tag Manager (noscript) -->
+
+<section id="breakingNewsContainer" class="hidden"><div id="breakingNews" class="group wrap"><div class="breaking-content"><div class="breaking-news-type"></div><div class="breaking-news-content"></div></div><div class="close-btn">X</div></div></section>
+    <section id="nonEditBannerContainer" class="hidden"><div id="breakingNews" class="group wrap"><div class="breaking-content"><div class="breaking-news-type"></div><div class="breaking-news-content"></div></div><div class="close-btn">X</div></div></section>
+
+    <header id="headerMain">
+        <div class="container group">
+            <div class="edition-container group">
+                <div class="edition-label">Edition:</div>
+                <div class="edition-selector">
+                    <div class="edition">United States</div>
+                    <div class="edition-arrow"></div>
+                </div>
+            </div>
+            <div class="reuters-nav-main">
+                <h2 class="reuters-logo">
+                    <a href="/" title="Reuters"></a>
+                </h2>
+            </div>
+            <div id="utilities" class="utilities"></div>
+        </div>
+    </header>
+    <nav id="headerNav">
+        <div class="container group">
+            <div class="header-mini-logo">
+                    <a href="/" title="Reuters"></a>
+            </div>
+            <ul class="horizontal-list nav-list">
+                <li class="nav-item home-tab active-icon
+                                                no-subnav" id="nav-item-1">
+                                            <a href="/home" class="nav-link-sec">
+                                                <div class="home-icon"></div>
+                                                <span class="text"></span>
+                                            </a>
+                                        </li>
+                <li class="nav-item active" id="nav-item-2">
+                                       <a href="/news/world" class="nav-link-sec">World</a>
+                                <div class="subnav" id="subnav-2">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li class="active"><a href="/news/world" class="nav-link-subsec">World Home</a></li>
+                                        <li><a href="/world/us-election2020" class="nav-link-subsec">U.S. Election 2020</a></li>
+                                        <li><a href="/news/us" class="nav-link-subsec">United States</a></li>
+                                        <li><a href="/world/uk" class="nav-link-subsec">United Kingdom</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/places/china" class="nav-link-subsec">China</a></li>
+                                        <li><a href="/world/americas" class="nav-link-subsec">Americas</a></li>
+                                        <li><a href="/world/apac" class="nav-link-subsec">Asia Pacific</a></li>
+                                        <li><a href="/subjects/euro-zone" class="nav-link-subsec">Europe</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/subjects/middle-east" class="nav-link-subsec">Middle East & Africa</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item" id="nav-item-3">
+                                       <a href="/finance" class="nav-link-sec">Business</a>
+                                <div class="subnav" id="subnav-3">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/finance" class="nav-link-subsec">Business Home</a></li>
+                                        <li><a href="/subjects/sustainable-business" class="nav-link-subsec">Sustainable Business</a></li>
+                                        <li><a href="/the-world-at-work" class="nav-link-subsec">The World at Work</a></li>
+                                        <li><a href="/sectors/energy" class="nav-link-subsec">Energy</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/legal" class="nav-link-subsec">Legal</a></li>
+                                        <li><a href="/subjects/banks" class="nav-link-subsec">Finance</a></li>
+                                        <li><a href="/news/media" class="nav-link-subsec">Media & Telecoms</a></li>
+                                        <li><a href="/news/health" class="nav-link-subsec">Healthcare & Pharmaceuticals</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/subjects/autos" class="nav-link-subsec">Autos</a></li>
+                                        <li><a href="/subjects/aerospace-and-defense" class="nav-link-subsec">Aerospace & Defense</a></li>
+                                        <li><a href="/sectors/industrials" class="nav-link-subsec">Industrials</a></li>
+                                        <li><a href="/finance/retail" class="nav-link-subsec">Retail & Consumer</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item" id="nav-item-4">
+                                       <a href="/finance/markets" class="nav-link-sec">Markets</a>
+                                <div class="subnav" id="subnav-4">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/finance/markets" class="nav-link-subsec">Markets Home</a></li>
+                                        <li><a href="/finance/markets/us" class="nav-link-subsec">U.S. Markets</a></li>
+                                        <li><a href="/finance/markets/europe" class="nav-link-subsec">European Markets</a></li>
+                                        <li><a href="/finance/markets/asia" class="nav-link-subsec">Asian Markets</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/finance/deals" class="nav-link-subsec">Deals</a></li>
+                                        <li><a href="/finance/global-market-data" class="nav-link-subsec">Global Market Data</a></li>
+                                        <li><a href="/markets/stocks" class="nav-link-subsec">Stocks</a></li>
+                                        <li><a href="/markets/bonds" class="nav-link-subsec">Bonds</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/finance/funds" class="nav-link-subsec">Funds</a></li>
+                                        <li><a href="/markets/commodities" class="nav-link-subsec">Commodities</a></li>
+                                        <li><a href="/markets/currencies" class="nav-link-subsec">Currencies</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item no-subnav" id="nav-item-5">
+                                       <a href="/breakingviews" class="nav-link-sec">Breakingviews</a>
+                                </li>
+                <li class="nav-item no-subnav" id="nav-item-6">
+                                       <a href="/news/technology" class="nav-link-sec">Technology</a>
+                                </li>
+                <li class="nav-item no-subnav" id="nav-item-7">
+                                       <a href="//www.reuters.com/investigates/" class="nav-link-sec">Investigations</a>
+                                </li>
+                <li class="nav-item" id="nav-item-8">
+                                       <a href="/news/lifestyle" class="nav-link-sec">Lifestyle</a>
+                                <div class="subnav" id="subnav-8">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li><a href="/news/lifestyle" class="nav-link-subsec">Lifestyle Home</a></li>
+                                        <li><a href="/news/sports" class="nav-link-subsec">Sports</a></li>
+                                        <li><a href="/news/science" class="nav-link-subsec">Science</a></li>
+                                        <li><a href="/finance/wealth" class="nav-link-subsec">Wealth</a></li>
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li><a href="/news/oddlyEnough" class="nav-link-subsec">Oddly Enough</a></li>
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item pictures-tab active-icon active-text
+                                                no-subnav" id="nav-item-9">
+                                            <a href="/news/pictures" class="nav-link-sec">
+                                                <div class="pictures-icon"></div>
+                                                <span class="text">Pictures</span>
+                                            </a>
+                                        </li>
+                <li class="nav-item video-tab active-icon active-text
+                                                no-subnav" id="nav-item-10">
+                                            <a href="/video" class="nav-link-sec">
+                                                <div class="video-icon"></div>
+                                                <span class="text">Video</span>
+                                            </a>
+                                        </li>
+                <li class="nav-item no-subnav" id="nav-item-11">
+                                       <a href="https://graphics.reuters.com/" class="nav-link-sec">Graphics</a>
+                                </li>
+                <li class="nav-item search-tab active-icon no-subnav"><div class="search-icon"></div></li>
+                </ul>
+            <div id="searchBar">
+                <form id="searchForm" class="search-form" name="searchbox" method="get" action="/search/news" autocomplete="off">
+                    <input id="searchfield" class="search-field" name="blob" type="text" value="" onfocus="this.value = this.value;"  size="30" maxlength="128">
+                    <span class="search-line"></span>
+                    <input type="submit" id="search-submit-button" class="search-submit-button" value="" onmousedown="if(document.forms['searchbox'].blob.value == 'Search Reuters') { document.forms['searchbox'].blob.value = ''; }">
+                    <div class="search-close-button"></div>
+                </form>
+            </div>
+            </div>
+    </nav>
+    <div class="nav-white-space"></div>
+    <div class="edition-header">
+        <div class="container">
+            <div class="selection-header"></div>
+            <ul class="edition-list">
+                <li>
+                    <div class="item"><a href="//af.reuters.com">Africa</a></div>
+                    <div class="item"><a href="//lta.reuters.com" class="">América Latina</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//ara.reuters.com">عربي</a></div>
+                    <div class="item"><a href="//ar.reuters.com" class="">Argentina</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//br.reuters.com">Brasil</a></div>
+                    <div class="item"><a href="//ca.reuters.com">Canada</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//cn.reuters.com" class="">中国</a></div>
+                    <div class="item"><a href="//de.reuters.com" class="">Deutschland</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//es.reuters.com">España</a></div>
+                    <div class="item"><a href="//fr.reuters.com">France</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//in.reuters.com" class="">India</a></div>
+                    <div class="item"><a href="//it.reuters.com">Italia</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//jp.reuters.com" class="">日本</a></div>
+                    <div class="item"><a href="//mx.reuters.com">México</a></div>
+                </li>
+                <li>
+                    <div class="item"><a href="//ru.reuters.com">РОССИЯ</a></div>
+                    <div class="item"><a href="//uk.reuters.com" class="">United Kingdom</a></div>
+                </li>
+                <li><div class="item"><a href="//www.reuters.com" class="active">United States</a></div></li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="content">
+            <div id="overlayForSearch"></div>
+<section class="ad-horizontal">
+	<div class="group wrap" id="">
+		<div id="div_gpt_lb" class="ad-leaderboard"><script>
+gatherAd('div_gpt_lb', [[728, 90],[970,250],[970,180],[970,90],[1,1]], TR3.extractDartZone(), 'yes', 'leaderboard');
+</script></div>
+<div class="linebreak"></div>
+	</div>
+	</section><section>
+	<div class="group wrap" id="">
+		<header class="module-header ">
+                        <h1 class="module-heading module-heading-page">
+                                    WORLD</h1>
+                            </header>
+                <div class="linebreak"></div>
+	<div class="pageSponsor"><div id="div_gpt_sponsorlogo"><div class="ad" id="sponsorlogo">
+
+		<script type="text/javascript">
+var dz_final = TR3.extractDartZone();
+// leaderboard
+if( 'sponsorlogo' == 'leaderboard'){
+    //US/UK HOME FASTLANE
+    if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1) || (TR3.extractDartZone().indexOf("jp.reuters") > -1) || (TR3.extractDartZone().indexOf("lta.reuters") > -1)){
+        if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+        {displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );}
+        else{ displayAd_sync_fastlane( dz_final, "" + adParams2 + "" ); }
+    }
+    else{ 
+		if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+        { displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "");}
+        else{ displayAd_sync( dz_final, "" + adParams2 + "" ); }
+    }
+}
+else if('sponsorlogo' == 'mpu'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); }); }
+else if('sponsorlogo' == 'mpu2'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpu2'); }); }
+else if('sponsorlogo' == 'mpulow'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); }); }
+else if('sponsorlogo' == 'leaderboardcenter'){
+    if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1) || (TR3.extractDartZone().indexOf("jp.reuters") > -1)  || (TR3.extractDartZone().indexOf("lta.reuters") > -1)){ googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); }); }
+    else{ displayAd("div_gpt_sponsorlogo", dz_final,  [250,36], "type=sponsorlogo;" + adParams2 + "" ); }
+}
+else if('sponsorlogo' == 'leaderboardlow'){
+        if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1) || (TR3.extractDartZone().indexOf("jp.reuters") > -1) || (TR3.extractDartZone().indexOf("lta.reuters") > -1)){ googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); }); }
+        else{ displayAd("div_gpt_sponsorlogo", dz_final,  [250,36], "type=sponsorlogo;" + adParams2 + "" ); }
+}
+else{
+    if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+        displayAd("div_gpt_sponsorlogo", dz_final,  [250,36], "type=sponsorlogo;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+    } else{ displayAd("div_gpt_sponsorlogo", dz_final,  [250,36], "type=sponsorlogo;" + adParams2 + "" ); }	
+}
+</script>
+        
+        </div>
+
+		</div><div class="linebreak"></div>
+</div>
+</div>
+	</section><section>
+	<div class="group wrap" id="">
+		<div class="column1 col col-10">
+		<section  class="module  ">
+		
+		<section class="module-content">
+		<div class="news-headline-list  large full-width">
+		<article class="story featured-article no-border-bottom">
+				<div class="story-photo lazy-photo ">
+						<a href="/article/us-belarus-election/russia-accuses-u-s-of-promoting-revolution-in-belarus-toughens-stance-idUSKBN2672NC">
+							<img
+                                
+					src="https://s2.reutersmedia.net/resources_v2/images/core-placeholder-featured.png"
+					org-src="https://s4.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533705887&w=1100&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG8F1LT"
+                                
+                                border="0" alt=""
+                                 />
+		</a>	
+					</div><div class="story-content">
+					<a href="/article/us-belarus-election/russia-accuses-u-s-of-promoting-revolution-in-belarus-toughens-stance-idUSKBN2672NC">
+							<h3 class="story-title">
+								Russia accuses U.S. of promoting revolution in Belarus, toughens stance</h3>
+							</a>
+			        <div class="contributor"></div>
+			        <p>Russia on Wednesday accused Washington of trying to foment a  revolution in Belarus, where it sent its defence minister for talks on military ties, in a sign that Moscow's support for embattled Belarusian leader Alexander Lukashenko was hardening.</p>
+					<time class="article-time">
+							<span class="timestamp">2:44pm EDT</span>
+						</time>
+					</div>
+				
+			</article>
+			</div>
+</section>
+		</section>
+
+<section  class="module  ">
+		
+		<section class="module-content">
+		<div class="news-headline-list  ">
+		<article class="story ">
+				<div class="story-photo lazy-photo ">
+						<a href="/article/us-russia-politics-navalny-nordstream/russia-says-navalny-sanctions-talk-is-affecting-its-borrowing-plans-idUSKBN2671QT">
+							<img
+                                
+					src="https://s2.reutersmedia.net/resources_v2/images/core-placeholder-featured.png"
+					org-src="https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533707246&w=370&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG8F1MI"
+                                
+                                border="0" alt=""
+                                 />
+		</a>	
+					</div><div class="story-content">
+					<a href="/article/us-russia-politics-navalny-nordstream/russia-says-navalny-sanctions-talk-is-affecting-its-borrowing-plans-idUSKBN2671QT">
+							<h3 class="story-title">
+								Russia says Navalny sanctions talk is affecting its borrowing plans</h3>
+							</a>
+			        <div class="contributor"></div>
+			        <p>Russia said on Wednesday that talk of possible sanctions over the case of Alexei Navalny was affecting its plans to borrow money on international markets, acknowledging the risk of harmful economic fallout from his poisoning.</p>
+					<time class="article-time">
+							<span class="timestamp">2:01pm EDT</span>
+						</time>
+					</div>
+				
+			</article>
+			<article class="story ">
+				<div class="story-photo lazy-photo ">
+						<a href="/article/us-britain-eu/chances-of-brexit-deal-fading-every-day-eu-commission-chief-says-idUSKBN2670Q7">
+							<img
+                                
+					src="https://s2.reutersmedia.net/resources_v2/images/core-placeholder-featured.png"
+					org-src="https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533667900&w=370&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG8F0ZB"
+                                
+                                border="0" alt=""
+                                 />
+		</a>	
+					</div><div class="story-content">
+					<a href="/article/us-britain-eu/chances-of-brexit-deal-fading-every-day-eu-commission-chief-says-idUSKBN2670Q7">
+							<h3 class="story-title">
+								Chances of Brexit deal fading every day, EU Commission chief says</h3>
+							</a>
+			        <div class="contributor"></div>
+			        <p>The head of the European Commission said on Wednesday the chances of reaching a trade deal with Britain were fading by the day as the British government pushes ahead with moves that would breach their divorce treaty.</p>
+					<time class="article-time">
+							<span class="timestamp">2:07pm EDT</span>
+						</time>
+					</div>
+				
+			</article>
+			<article class="story ">
+				<div class="story-photo lazy-photo ">
+						<a href="/article/us-usa-britain-iran/u-s-plans-to-enforce-u-n-sanctions-on-iran-with-its-own-action-idUSKBN2672UE">
+							<img
+                                
+					src="https://s2.reutersmedia.net/resources_v2/images/core-placeholder-featured.png"
+					org-src="https://s4.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533756629&w=370&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG8F249"
+                                
+                                border="0" alt=""
+                                 />
+		</a>	
+					</div><div class="story-content">
+					<a href="/article/us-usa-britain-iran/u-s-plans-to-enforce-u-n-sanctions-on-iran-with-its-own-action-idUSKBN2672UE">
+							<h3 class="story-title">
+								U.S. plans to enforce U.N. sanctions on Iran with its own action</h3>
+							</a>
+			        <div class="contributor"></div>
+			        <p>The United States said on Wednesday it plans to impose sanctions on those who violate a U.N. arms embargo on Iran, which Washington says will now stay in place instead of expiring in October as agreed under a 2015 nuclear deal.</p>
+					<time class="article-time">
+							<span class="timestamp">6:15pm EDT</span>
+						</time>
+					</div>
+				
+			</article>
+			<div id="div_gpt_bi_content"></div>
+				<article class="story ">
+				<div class="story-photo lazy-photo ">
+						<a href="/article/us-turkey-greece-germany/erdogan-told-germanys-merkel-turkish-drill-ship-did-not-end-operations-in-east-med-idUSKBN267371">
+							<img
+                                
+					src="https://s2.reutersmedia.net/resources_v2/images/core-placeholder-featured.png"
+					org-src="https://s3.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533732232&w=370&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG8F1X7"
+                                
+                                border="0" alt=""
+                                 />
+		</a>	
+					</div><div class="story-content">
+					<a href="/article/us-turkey-greece-germany/erdogan-told-germanys-merkel-turkish-drill-ship-did-not-end-operations-in-east-med-idUSKBN267371">
+							<h3 class="story-title">
+								Erdogan told Germany's Merkel: Turkish drill ship did not end operations in east Med</h3>
+							</a>
+			        <div class="contributor"></div>
+			        <p>President Tayyip Erdogan told German Chancellor Angela Merkel during a video call on Wednesday that the docking of Turkey's Oruc Reis seismic survey vessel for maintenance does not mean its operations in the eastern Mediterranean are done, Foreign Minister Mevlut Cavusoglu said.</p>
+					<time class="article-time">
+							<span class="timestamp">2:32pm EDT</span>
+						</time>
+					</div>
+				
+			</article>
+			<article class="story ">
+				<div class="story-photo lazy-photo ">
+						<a href="/article/us-bolivia-election-polls/bolivia-election-poll-suggests-outright-victory-for-morales-candidate-idUSKBN26739R">
+							<img
+                                
+					src="https://s2.reutersmedia.net/resources_v2/images/core-placeholder-featured.png"
+					org-src="https://s3.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533738907&w=370&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG8F1YM"
+                                
+                                border="0" alt=""
+                                 />
+		</a>	
+					</div><div class="story-content">
+					<a href="/article/us-bolivia-election-polls/bolivia-election-poll-suggests-outright-victory-for-morales-candidate-idUSKBN26739R">
+							<h3 class="story-title">
+								Bolivia election poll suggests outright victory for Morales' candidate</h3>
+							</a>
+			        <div class="contributor"></div>
+			        <p>Luis Arce, the candidate for the party of Bolivia's former socialist president Evo Morales, could win next month's election in the first round, with opposition to him fragmented among rival parties, an opinion poll suggested on Wednesday.</p>
+					<time class="article-time">
+							<span class="timestamp">3:23pm EDT</span>
+						</time>
+					</div>
+				
+			</article>
+			<article class="story ">
+				<div class="story-photo lazy-photo ">
+						<a href="/article/us-libya-security-turkey-russia/turkish-russian-officials-nearing-deal-on-libya-ceasefire-political-process-minister-idUSKBN2673FD">
+							<img
+                                
+					src="https://s2.reutersmedia.net/resources_v2/images/core-placeholder-featured.png"
+					org-src="https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533747195&w=370&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG8F223"
+                                
+                                border="0" alt=""
+                                 />
+		</a>	
+					</div><div class="story-content">
+					<a href="/article/us-libya-security-turkey-russia/turkish-russian-officials-nearing-deal-on-libya-ceasefire-political-process-minister-idUSKBN2673FD">
+							<h3 class="story-title">
+								Turkish, Russian officials nearing deal on Libya ceasefire, political process: minister</h3>
+							</a>
+			        <div class="contributor"></div>
+			        <p>Turkey and Russia have moved closer to an agreement on a ceasefire and political process in Libya during their latest meetings in Ankara, Turkish Foreign Minister Mevlut Cavusoglu told an interview with broadcaster CNN Turk late on Wednesday.</p>
+					<time class="article-time">
+							<span class="timestamp">4:40pm EDT</span>
+						</time>
+					</div>
+				
+			</article>
+			<article class="story ">
+				<div class="story-photo  ">
+						<a href="/article/us-taiwan-china-security/taiwan-says-chinese-anti-submarine-aircraft-off-its-coast-idUSKBN26800Z">
+							<img class="placeholder-image" src="https://s2.reutersmedia.net/resources_v2/images/core-placeholder-featured.png" border="0" alt="" />
+								</a>	
+					</div><div class="story-content">
+					<a href="/article/us-taiwan-china-security/taiwan-says-chinese-anti-submarine-aircraft-off-its-coast-idUSKBN26800Z">
+							<h3 class="story-title">
+								Taiwan says Chinese anti-submarine aircraft off its coast</h3>
+							</a>
+			        <div class="contributor"></div>
+			        <p>Two Chinese anti-submarine aircraft flew into Taiwan's air defence identification zone on Wednesday and were warned to leave by Taiwan's air force, the island's defence ministry said on Thursday, the day a senior U.S. official is due to arrive.</p>
+					<time class="article-time">
+							<span class="timestamp">8:26pm EDT</span>
+						</time>
+					</div>
+				
+			</article>
+			<article class="story ">
+				<div class="story-photo  ">
+						<a href="/article/us-usa-iran-cyber/u-s-prosecutors-indict-two-iranians-over-alleged-hacking-spree-idUSKBN2673M4">
+							<img class="placeholder-image" src="https://s2.reutersmedia.net/resources_v2/images/core-placeholder-featured.png" border="0" alt="" />
+								</a>	
+					</div><div class="story-content">
+					<a href="/article/us-usa-iran-cyber/u-s-prosecutors-indict-two-iranians-over-alleged-hacking-spree-idUSKBN2673M4">
+							<h3 class="story-title">
+								U.S. prosecutors indict two Iranians over alleged hacking spree</h3>
+							</a>
+			        <div class="contributor"></div>
+			        <p>U.S. prosecutors on Wednesday announced two Iranians had been indicted on allegations they were hackers connected with a string of cyber intrusions at U.S. and foreign universities, a Washington-based think tank, non-profits, and other organizations.</p>
+					<time class="article-time">
+							<span class="timestamp">6:28pm EDT</span>
+						</time>
+					</div>
+				
+			</article>
+			<article class="story ">
+				<div class="story-photo lazy-photo ">
+						<a href="/article/us-health-coronavirus-chile/chileans-urged-to-be-prudent-during-independence-day-celebrations-idUSKBN2673GW">
+							<img
+                                
+					src="https://s2.reutersmedia.net/resources_v2/images/core-placeholder-featured.png"
+					org-src="https://s2.reutersmedia.net/resources/r/?m=02&d=20200916&t=2&i=1533749531&w=370&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG8F23C"
+                                
+                                border="0" alt=""
+                                 />
+		</a>	
+					</div><div class="story-content">
+					<a href="/article/us-health-coronavirus-chile/chileans-urged-to-be-prudent-during-independence-day-celebrations-idUSKBN2673GW">
+							<h3 class="story-title">
+								Chileans urged to be 'prudent' during independence day celebrations</h3>
+							</a>
+			        <div class="contributor"></div>
+			        <p>Chile's health minister has urged Chileans to celebrate the country's independence day holiday on Friday "prudently" amid fears that a special permit allowing people to hold and attend family gatherings could result in a spike in coronavirus cases.</p>
+					<time class="article-time">
+							<span class="timestamp">5:05pm EDT</span>
+						</time>
+					</div>
+				
+			</article>
+			</div>
+</section>
+		</section>
+
+<div class="control-nav">
+					<a class="control-nav-next" href="/news/archive/worldnews?view=page&page=2&pageSize=10">
+						View More<i class="page-arrow page-arrow-right"></i>
+					</a>
+				</div>
+			<div id="div_gpt_bi_content"><div class="ad" id="bi_content">
+
+		<script type="text/javascript">
+var dz_final = TR3.extractDartZone();
+// leaderboard
+if( 'bi_content' == 'leaderboard'){
+    //US/UK HOME FASTLANE
+    if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1) || (TR3.extractDartZone().indexOf("jp.reuters") > -1) || (TR3.extractDartZone().indexOf("lta.reuters") > -1)){
+        if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+        {displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );}
+        else{ displayAd_sync_fastlane( dz_final, "" + adParams2 + "" ); }
+    }
+    else{ 
+		if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+        { displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "");}
+        else{ displayAd_sync( dz_final, "" + adParams2 + "" ); }
+    }
+}
+else if('bi_content' == 'mpu'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); }); }
+else if('bi_content' == 'mpu2'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpu2'); }); }
+else if('bi_content' == 'mpulow'){ googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); }); }
+else if('bi_content' == 'leaderboardcenter'){
+    if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1) || (TR3.extractDartZone().indexOf("jp.reuters") > -1)  || (TR3.extractDartZone().indexOf("lta.reuters") > -1)){ googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); }); }
+    else{ displayAd("div_gpt_bi_content", dz_final, [[780,156],[1,1]], "type=bi_content;" + adParams2 + "" ); }
+}
+else if('bi_content' == 'leaderboardlow'){
+        if((TR3.extractDartZone().indexOf("us.reuters") > -1) || (TR3.extractDartZone().indexOf("uk.reuters") > -1) || (TR3.extractDartZone().indexOf("jp.reuters") > -1) || (TR3.extractDartZone().indexOf("lta.reuters") > -1)){ googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); }); }
+        else{ displayAd("div_gpt_bi_content", dz_final, [[780,156],[1,1]], "type=bi_content;" + adParams2 + "" ); }
+}
+else{
+    if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+        displayAd("div_gpt_bi_content", dz_final, [[780,156],[1,1]], "type=bi_content;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+    } else{ displayAd("div_gpt_bi_content", dz_final, [[780,156],[1,1]], "type=bi_content;" + adParams2 + "" ); }	
+}
+</script>
+        
+        </div>
+
+		</div><div class="linebreak"></div>
+<div class="linebreak"></div>
+	</div>
+
+	<div class="column2 col col-4">
+		<div class="sticky-1"><div id="div_gpt_mpu"><script>
+gatherAd('div_gpt_mpu', [[300,250],[1,1],[300,600],[300,1050]], TR3.extractDartZone(), 'yes', 'mpu');
+</script></div><div class="linebreak"></div>
+</div><section  class="module mod-video mod-video-dark ">
+		
+		<header class="module-header">
+				<h4 class="module-heading">
+					World <span class="title-last">Video</span>
+					</h4>
+                </header>
+		<section class="module-content">
+		<i class="video-icon"></i><div class="video-module">
+				<div class="video group ">
+						
+						<a href="/video/2020/09/16/hhs-spokesman-takes-leave-after-facebook?videoId=719238160&videoChannel=117760"  ><figure>
+								<img
+                                
+                                        src="https://s2.reutersmedia.net/resources/r/?d=20200916&i=OVCVY1XB3&w=&r=OVCVY1XB3&t=2"
+                                
+                                border="0" alt="HHS spokesman takes leave after Facebook rant"
+                                 />
+		<span class="slide-length"><i class="video-indicator"></i>02:14</span></figure></a>
+	<div class="video-header">
+							<h3 class="video-heading">
+								<a href="/video/2020/09/16/hhs-spokesman-takes-leave-after-facebook?videoId=719238160&videoChannel=117760"  >HHS spokesman takes leave after Facebook rant</a>
+	</h3>
+						</div>
+
+						</div>
+				<div class="video group ">
+						
+						<a href="/video/2020/09/16/us-arms-sales-surge-to-taiwan-reuters-so?videoId=719235946&videoChannel=117760"  ><figure>
+								<img
+                                
+                                        src="https://s3.reutersmedia.net/resources/r/?d=20200916&i=OVCVY1VQ7&w=&r=OVCVY1VQ7&t=2"
+                                
+                                border="0" alt="U.S. arms sales surge to Taiwan, Reuters sources"
+                                 />
+		<span class="slide-length"><i class="video-indicator"></i>01:31</span></figure></a>
+	<div class="video-header">
+							<h3 class="video-heading">
+								<a href="/video/2020/09/16/us-arms-sales-surge-to-taiwan-reuters-so?videoId=719235946&videoChannel=117760"  >U.S. arms sales surge to Taiwan, Reuters sources</a>
+	</h3>
+						</div>
+
+						</div>
+				<div class="video group ">
+						
+						<a href="/video/2020/09/16/mexicos-millionaire-making-jet-raffle?videoId=719212418&videoChannel=117760"  ><figure>
+								<img
+                                
+                                        src="https://s3.reutersmedia.net/resources/r/?d=20200916&i=OVCVY1E97&w=&r=OVCVY1E97&t=2"
+                                
+                                border="0" alt="Mexico's millionaire making jet 'raffle'"
+                                 />
+		<span class="slide-length"><i class="video-indicator"></i>01:38</span></figure></a>
+	<div class="video-header">
+							<h3 class="video-heading">
+								<a href="/video/2020/09/16/mexicos-millionaire-making-jet-raffle?videoId=719212418&videoChannel=117760"  >Mexico's millionaire making jet 'raffle'</a>
+	</h3>
+						</div>
+
+						</div>
+				<div class="video group ">
+						
+						<a href="/video/2020/09/16/suga-takes-the-reins-from-abe-as-new-pm?videoId=719212618&videoChannel=117760"  ><figure>
+								<img
+                                
+                                        src="https://s3.reutersmedia.net/resources/r/?d=20200916&i=OVCVY1757&w=&r=OVCVY1757&t=2"
+                                
+                                border="0" alt="Suga takes the reins from Abe as new PM"
+                                 />
+		<span class="slide-length"><i class="video-indicator"></i>02:10</span></figure></a>
+	<div class="video-header">
+							<h3 class="video-heading">
+								<a href="/video/2020/09/16/suga-takes-the-reins-from-abe-as-new-pm?videoId=719212618&videoChannel=117760"  >Suga takes the reins from Abe as new PM</a>
+	</h3>
+						</div>
+
+						</div>
+				<div class="video group ">
+						
+						<a href="/video/2020/09/16/von-der-leyen-sets-out-eus-ambitious-new?videoId=719214834&videoChannel=117760"  ><figure>
+								<img
+                                
+                                        src="https://s2.reutersmedia.net/resources/r/?d=20200916&i=OVCVY1GNF&w=&r=OVCVY1GNF&t=2"
+                                
+                                border="0" alt="Von der Leyen sets out EU's ambitious new goals"
+                                 />
+		<span class="slide-length"><i class="video-indicator"></i>01:57</span></figure></a>
+	<div class="video-header">
+							<h3 class="video-heading">
+								<a href="/video/2020/09/16/von-der-leyen-sets-out-eus-ambitious-new?videoId=719214834&videoChannel=117760"  >Von der Leyen sets out EU's ambitious new goals</a>
+	</h3>
+						</div>
+
+						</div>
+				</div>
+		</section>
+		</section>
+
+<div class="sticky-1"><div id="div_gpt_mpulow"><script>
+gatherAd('div_gpt_mpulow', [[300, 250],[300,600],[300,1050]], TR3.extractDartZone(), 'yes', 'mpulow');
+</script></div>
+</div></div>
+
+</div>
+	</section></div>
+<footer>
+<section class="footer">
+	<div class="group wrap" id="">
+		<script>
+
+callAds();
+</script>
+<div id="section-follow-buttons"><span class="footer-follow">Follow Reuters: </span>
+<ul>
+    <li id="foot-twitter"><a href="//www.twitter.com/reuters" target="_blank"><span class="follow-button follow-twitter">Follow Us On Twitter</span></a></li>
+    <li id="foot-facebook"><a href="//www.facebook.com/Reuters" target="_blank"><span class="follow-button follow-facebook">Follow Us On Facebook</span></a></li>
+    <li id="foot-instagram"><a href=" //instagram.com/reuters/" target="_blank"><span class="follow-button follow-instagram">Follow Us On Instagram</span></a></li>
+    <li id="foot-youtube"><a href="//www.youtube.com/user/ReutersVideo" target="_blank"><span class="follow-button follow-youtube">Follow Us On YouTube</span></a></li>
+    <li id="foot-linkedin"><a href="//www.linkedin.com/company/10256858/" target="_blank"><span class="follow-button follow-linkedin">Follow Us On LinkedIn</span></a></li>
+</ul></div><div class="footer-more-links"><span class="footer-more">Subscribe: </span>
+<a href="//newslink.reuters.com/join/subscribe">Newsletters</a> | <a href="/tools/podcasts">Podcasts</a> | <a href="/tools/mobile">Apps</a> </div></div>
+	</section><section class="footer-body">
+	<div class="group wrap" id="">
+		<div class="footer-services-link"><a href="https://www.reutersagency.com/?utm_source=website&utm_medium=reuters&utm_campaign=site-referral&utm_content=us&utm_term=0" target="_blank">Reuters News Agency</a> | <a href="https://www.reutersagency.com/en/about/brand-attribution-guidelines/" target="_blank">Brand Attribution Guidelines</a> | <a href="//sales.reuters.com/en " target="_blank">Advertise with Us</a> | <a href="//thomsonreuters.com/en/careers.html" target="_blank">Careers</a> | <a href="/article/us-reuters-editorial-leadership/reuters-editorial-leadership-idUSKBN1KE2SD" target="_blank">Reuters Editorial Leadership</a> | <a href="/fact-check" target="_blank">Reuters Fact Check</a></div><div class="disclaimer"><div class="footer-summary">
+<p>Reuters, the news and media division of <a href="//thomsonreuters.com/" target="_blank">Thomson Reuters</a>, is the world’s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted business, financial, national, and international news to professionals via Thomson Reuters desktops, the world's media organizations, and directly to consumers at Reuters.com and via Reuters TV.  Learn more about Thomson Reuters products:</p>
+</div>
+</div><div class="product-container">
+  <a href="https://www.refinitiv.com/en/products/eikon-trading-software" target="_blank">
+    <div class="product">
+      <div class="prod-title">Eikon</div>
+        <div class="prod-content">Information, analytics and exclusive news on financial markets - delivered in an intuitive desktop and mobile interface 
+        </div>
+    </div>
+  </a>
+  <a href="https://www.refinitiv.com/en/products/elektron-enterprise-data-management " target="_blank">  
+    <div class="product">
+      <div class="prod-title">Elektron</div>
+        <div class="prod-content">Everything you need to empower your workflow and enhance your enterprise data management 
+      </div>
+    </div>
+  </a>
+  <a href="https://www.refinitiv.com/en/products/world-check-kyc-screening" target="_blank">  
+    <div class="product">
+      <div class="prod-title">World-Check</div>
+      <div class="prod-content">Screen for heightened risk individuals and entities globally to help uncover hidden risks in business relationships and human networks 
+      </div>
+    </div>
+  </a>  
+  <a href="//legalsolutions.thomsonreuters.com/law-products/westlaw-legal-research/" target="_blank">
+    <div class="product">
+      <div class="prod-title">Westlaw</div>
+      <div class="prod-content">Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology   
+      </div>
+    </div>
+  </a>
+  <a href="//tax.thomsonreuters.com/products/brands/onesource/" target="_blank">  
+    <div class="product">
+      <div class="prod-title">ONESOURCE</div>
+      <div class="prod-content">The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs
+      </div>
+    </div>
+  </a>
+  <a href="//tax.thomsonreuters.com/products/brands/checkpoint/" target="_blank">  
+    <div class="product prod-last">
+      <div class="prod-title">CHECKPOINT</div>
+      <div class="prod-content">The industry leader for online information for tax, accounting and finance professionals 
+      </div>
+    </div>
+  </a>  
+</div><div class="linebreak"></div>
+	<div class="footer-policy-links"><p> All quotes delayed a minimum of 15 minutes. <a href="/info/disclaimer">See here for a complete list</a> of exchanges and delays.</p>
+<div class="footer-policies"><ul>
+    
+<li class="h-links">
+<div class="reuters-copyright"><script type="text/javascript">var year = new Date();document.write('<a href="//www.thomsonreuters.com/en/policies/copyright.html">&copy;  ' + year.getFullYear() + ' Reuters. All Rights Reserved.</a>');</script></div>
+</li>
+<li class="h-links"><a href="//reuters.zendesk.com/" target="_blank">Site Feedback</a></li>
+<li class="h-links"><a href="https://reuters.zendesk.com/hc/en-us/requests/new" target="_blank">Corrections</a></li>
+<li class="h-links"><a href="/advertising-guidelines">Advertising Guidelines</a></li>
+<li class="h-links"><a href="//info.evidon.com/pub_info/285" target="_blank">Cookies</a></li>
+<li class="h-links"><a href="//www.reuters.com/terms-of-use">Terms of Use</a></li>
+<li class="h-links"><a href="https://www.thomsonreuters.com/en/privacy-statement.html" target="_blank">Privacy Policy</a></li>
+<li class="h-links h-links-last"><a href='javascript:window.evidon.notice.showOptions();'>Do Not Sell My Personal Information</a></li>
+
+</ul></div></div><script>
+const footer_product_links = document.querySelectorAll('footer .product-container a');
+
+if (typeof(analytics) != 'undefinded') {
+	for (i=0; footer_product_links.length > i; i++) {
+		footer_product_links[i].addEventListener('mousedown', function() {
+			let url = this.href;
+			let name = this.getElementsByClassName('prod-title')[0].innerText.toLowerCase();
+			analytics.track('click link', {
+				type: 'event',
+				label: this.href,
+				category: 'footer '+name
+			})
+		});
+	}
+}
+</script><div class="linebreak"></div>
+	</div>
+	</section>
+</footer>
+
+<script src="https://s4.reutersmedia.net/resources_v2/js/core-header.js" type="text/javascript"></script>
+<script src="https://s3.reutersmedia.net/resources_v2/js/core-login.js" type="text/javascript"></script>
+<script src="https://s2.reutersmedia.net/resources_v2/js/core-tracking.js" type="text/javascript"></script>
+<script src="https://s2.reutersmedia.net/resources_v2/js/rcom-social-share.js" type="text/javascript"></script>
+    <script src="https://s2.reutersmedia.net/resources_v2/js/libraries/core-lib.js" type="text/javascript"></script>
+	<script src="https://s4.reutersmedia.net/resources_v2/js/core-modules.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="//www.reuters.com/reuters_gpt_bootstrap_footer.js"></script>
+
+<section>
+	<div class="group" id="">
+		<script type='text/javascript'>
+    var _sf_startpt = (new Date()).getTime();
+    var _sf_async_config = _sf_async_config || {};
+    
+    _sf_async_config.playerdomain = 'queso-cdn.prod.reuters.tv';
+    _sf_async_config.sections = 'World Home'; 
+    _sf_async_config.autoDetect = false;
+    
+    _sf_async_config.authors = 'Reuters Editorial'; 
+    _sf_async_config.type = 'Landing Page'; 
+
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+  </script>
+<script type="text/javascript" src="//s4.reutersmedia.net/resources_v2/js/core-rivet.js"></script><div class="linebreak"></div>
+	<script type="text/javascript" src="//s4.reutersmedia.net/resources_v2/js/core-rage.js"></script><div class="linebreak"></div>
+	</div>
+	</section>
+<script type="text/javascript">
+/* 17022816 */ !function(t,d){function i(t,d){var i=et(t);if(!i)return i;if(""!=d)for(var u=0;u<d.length;u++){var n=l(d,u);"^"==n&&(i=i.parentNode),"<"==n&&(i=i.previousElementSibling),">"==n&&(i=i.nextElementSibling),"y"==n&&(i=i.firstChild)}return i}function u(t,d){var i=C(d);return{x:t.clientX-i.left,y:t.clientY-i.top}}function n(t){for(var d=0,i=0;t;)d+=t.offsetLeft+t.clientLeft,i+=t.offsetTop+t.clientTop,t=t.offsetParent;return{x:d,y:i}}function w(t,d){var i=0,u=0,w=n(d);return(t.pageX||t.pageY)&&(i=t.pageX,u=t.pageY),(t.clientX||t.clientY)&&(i=t.clientX+document.body.scrollLeft+document.documentElement.scrollLeft,u=t.clientY+document.body.scrollTop+document.documentElement.scrollTop),i-=w.x,u-=w.y,{x:i,y:u}}function e(t,d){return Y(d)?u(t,d):w(t,d)}function o(t,d){t.addEventListener?g(t,"click",d,!0):t.attachEvent&&t.attachEvent("onclick",function(){return d.call(t,window.event)})}function h(d,i){return t[m("c2V0VGltZW91dA==")](d,i)}function v(t){return parseInt(t.toString().split(".")[0],10)}function l(t,d){return t[d]}function x(){return Pt=(yt*Pt+Zt)%Ht}function r(){return x()/(Ht-1)}function a(){return r()}function s(t,d){return t>d?t:d}function f(){for(var t="",d=65;d<91;d++)t+=c(d);for(var d=97;d<123;d++)t+=c(d);return t}function c(t){return l(" !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ["+l("\\\\",0)+"]^_`abcdefghijklmnopqrstuvwxyz{|}",t-32)}function m(t){var d,i,u,n,w,e,o,h=f()+"0123456789+/=",v="",x=0;for(t=t.replace(/[^A-Za-z0-9\+\/\=]/g,"");x<t.length;)n=h.indexOf(l(t,x++)),w=h.indexOf(l(t,x++)),e=h.indexOf(l(t,x++)),o=h.indexOf(l(t,x++)),d=n<<2|w>>4,i=(15&w)<<4|e>>2,u=(3&e)<<6|o,v+=c(d),64!=e&&(v+=c(i)),64!=o&&(v+=c(u));return v}function p(){try{return navigator.userAgent||navigator.vendor||window.opera}catch(t){return"unknown"}}function g(t,d,i,u){u=u||!1;try{t.addEventListener(d,i,u)}catch(u){t.attachEvent&&t.attachEvent("on"+d,i)}}function S(t){if(!t)return"";for(var d=m("ISIjJCUmJygpKissLS4vOjs8PT4/QFtcXV5ge3x9"),i="",u=0;u<t.length;u++){i+=d.indexOf(t[u])>-1?m("XA==")+t[u]:t[u]}return i}function k(t){if(!t)return"";var d="";return t.id&&t.id.length>0&&(d+="#"+S(t.id)),t.className&&t.className.length>0&&(d+="."+S(t.className).split(" ").filter(function(t){return t&&t.length>0}).join(".")),d}function J(t){Lt[t]=!1}function W(t,d){var i=Nt++;Lt[i]=!0;var u=function(d){return function(){t.call(null),Lt[i]&&h(u,d)}}(d);return h(u,d),i}function R(t){b(t)}function b(i){if(i.wmxtdc00sdl&&!i.wmxtd088Inject){i.wmxtd088Inject=!0,i.wmxtd4c6Pc={},i.wmxtd94eOc=[],i.wmxtd99bAm={},i.wmxtd166Av={},i.wmxtdb9bAw={},i.wmxtdd65Rqr={},i.wmxtd242Rqq=[],i.wmxtd166Avt={},i.wmxtdfdfEv={},function(){try{return"undefined"==typeof google_osd_loaded}catch(t){return(""+t).indexOf(m("UmVmZXJlbmNlRXJyb3I="))>-1}}()&&ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53484439)w@5)l@77;95597:9)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ]"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),null,null);var u=[];if("jp.reuters.com"===t.location.host&&-1===location.search.indexOf("test=true")&&-1===location.hash.indexOf("test=true"))return!0;t.wmxtda9eFlags.imc76lt=!1,t.wmxtda9eFlags.pte20ls=!0,t.wmxtda9eFlags.ba31eit=["#content, [data-template='article_list']"],t.wmxtda9eFlags.ig4d0BP=["font","height"];for(var n=ot("img"),w=0;w<n.length;w++)t.wmxtda9eFlags.ba31eit.push(n[w].parentNode),t.wmxtda9eFlags.ba31eit.push(n[w].parentNode.parentNode);var e="S''ponsored",o=/^[a-z]+/.exec(location.host);if(o)switch(o[0]){case"de":e="G''esponsert";break;case"jp":e="A''dvertisement"}var h=M("style");h.innerHTML=".k872ABr9:before { content: '"+e+"'; opacity: 0.75; font-size: 10px; position: relative; margin-top: 3px; display: block; text-align: left; font-family: knowledge-medium,sans-serif; -webkit-font-smoothing: antialiased; font-size: 12px; color: #86888b; text-transform: uppercase; letter-spacing: .2rem;  } span.k872ABr9{ display: block; }",d.head.appendChild(h);for(var l=[],x=(W(function(){l=ot('div[class*="content"] > div[class*="left"] > div[class*="container"] > div[class*="body"]')},1e3),null),r="",s=0;s<5&&!(r=G().replace(/^[0-9]+/,""));s++);var f=null,c=et("head");if(et('body[data-rcom-width], meta[property="og:type"][content="section"]')){if(x)return;x=M("div");var p=M("div");j(p,"display","none"),K(x,p),t.wmxtda9eFlags.spacerElement=x,f=M("style"),D(f,"."+r+" {padding-top: 355.1px;transition: padding-top 0.3s ease-out;}"),K(c,f),nt(x,r);var g=et("#content > #overlayForSearch");g&&g.insertAdjacentElement("beforeBegin",x)}if(!i.wmxtda9eFlags.welect.eenabled||ZWSYHWelect()){if(wmxtda9eFlags.pte20ls){var S=wmxtda9eFlags.ba31eit,k=wmxtda9eFlags.mbefcel||10,J=wmxtda9eFlags.ig4d0BP,R=function(){var t=M("style");t.type="text/css";var i=!1,u=M("style");u.type="text/css";var n=!1;return function(w,e){if(e)if("b"!==w||i){if("r"===w)if(n){var o=u,h=o.sheet;h.insertRule(e,0)}else n=!0,D(u,e),K(d.body,u)}else{if(i=!0,J)for(var v=0;v<J.length;v++)e=e.replace(new RegExp("([;{])"+J[v]+": [^;]+;","g"),"$1");var o="[^:;{",h="!important;";e=e.replace(new RegExp(o+"}]+: [^;]+\\s"+h,"g"),""),D(t,e),d.head.insertBefore(t,d.head.firstChild)}}}();if(S){if(S.length>k){for(var b=0,O=[0],q=[S[0]],Q=1;Q<k;Q++){for(;O.indexOf(b)>-1;)b=v(a()*S.length);O.push(b),q[Q]=S[b]}S=q,wmxtda9eFlags.ba31eit=q}for(var V={},w=0;w<S.length;w++){var H="string"==typeof S[w]?et(S[w]):S[w];if(H&&H instanceof Node){var y={element:H,coc36so:{},rc78ccls:Rt(7),co969tx:""};if(y.co969tx+="."+y.rc78ccls+"{",!J||J&&-1===J.indexOf("margin-bottom")){var Z=tt(H,"margin-bottom");y.coc36so["margin-bottom"]=Z,y.co969tx+="margin-bottom:"+Z+";"}if(!J||J&&-1===J.indexOf("margin-top")){var Z=tt(H,"margin-top");y.coc36so["margin-top"]=Z,y.co969tx+="margin-top:"+Z+";"}if(!J||J&&-1===J.indexOf("left")){var Z=tt(H,"left");y.coc36so.left=Z,y.co969tx+="left:"+Z+";"}if(!J||J&&-1===J.indexOf("text-align")){var Z=tt(H,"text-align");y.coc36so["text-align"]=Z,y.co969tx+="text-align:"+Z+";"}if(!J||J&&-1===J.indexOf("display")){var Z=tt(H,"display");y.coc36so.display=Z,y.co969tx+="display:"+Z+";"}if(!J||J&&-1===J.indexOf("cursor")){var Z=tt(H,"cursor");y.coc36so.cursor=Z,y.co969tx+="cursor:"+Z+";"}if(!J||J&&-1===J.indexOf("margin")){var Z=tt(H,"margin");y.coc36so.margin=Z,y.co969tx+="margin:"+Z+";"}if(!J||J&&-1===J.indexOf("right")){var Z=tt(H,"right");y.coc36so.right=Z,y.co969tx+="right:"+Z+";"}if(!J||J&&-1===J.indexOf("position")){var Z=tt(H,"position");y.coc36so.position=Z,y.co969tx+="position:"+Z+";"}if(!J||J&&-1===J.indexOf("top")){var Z=tt(H,"top");y.coc36so.top=Z,y.co969tx+="top:"+Z+";"}if(!J||J&&-1===J.indexOf("width")){var Z=tt(H,"width");y.coc36so.width=Z,y.co969tx+="width:"+Z+";"}if(!J||J&&-1===J.indexOf("padding-left")){var Z=tt(H,"padding-left");y.coc36so["padding-left"]=Z,y.co969tx+="padding-left:"+Z+";"}if(!J||J&&-1===J.indexOf("padding-right")){var Z=tt(H,"padding-right");y.coc36so["padding-right"]=Z,y.co969tx+="padding-right:"+Z+";"}if(!J||J&&-1===J.indexOf("max-width")){var Z=tt(H,"max-width");y.coc36so["max-width"]=Z,y.co969tx+="max-width:"+Z+";"}if(!J||J&&-1===J.indexOf("min-height")){var Z=tt(H,"min-height");y.coc36so["min-height"]=Z,y.co969tx+="min-height:"+Z+";"}if(!J||J&&-1===J.indexOf("background-color")){var Z=tt(H,"background-color");y.coc36so["background-color"]=Z,y.co969tx+="background-color:"+Z+";"}if(!J||J&&-1===J.indexOf("justify-content")){var Z=tt(H,"justify-content");y.coc36so["justify-content"]=Z,y.co969tx+="justify-content:"+Z+";"}if(!J||J&&-1===J.indexOf("z-index")){var Z=tt(H,"z-index");y.coc36so["z-index"]=Z,y.co969tx+="z-index:"+Z+";"}if(!J||J&&-1===J.indexOf("visibility")){var Z=tt(H,"visibility");y.coc36so.visibility=Z,y.co969tx+="visibility:"+Z+";"}if(!J||J&&-1===J.indexOf("bottom")){var Z=tt(H,"bottom");y.coc36so.bottom=Z,y.co969tx+="bottom:"+Z+";"}if(!J||J&&-1===J.indexOf("direction")){var Z=tt(H,"direction");y.coc36so.direction=Z,y.co969tx+="direction:"+Z+";"}if(!J||J&&-1===J.indexOf("padding-top")){var Z=tt(H,"padding-top");y.coc36so["padding-top"]=Z,y.co969tx+="padding-top:"+Z+";"}y.co969tx+="} ",V[S[w]]=y,R("b",".ffgedmjntb{margin-bottom: 10px;margin-top: 15px;left: -125px;text-align: left !important;display: none;cursor: pointer;margin: 0px auto;right: 19px;position: relative;top: -475px;width: 300px;padding-left: 20px;padding-right: 20px;max-width: initial;min-height: 1px;background-color: rgb(237, 236, 237);justify-content: center;z-index: 9;visibility: hidden;bottom: 80px;direction: rtl;padding-top: 355.1px;} .wcmpjzjxq{text-align: center;margin: 0 auto;width: 970px;right: -2px;top: -272px;position: absolute;display: block;margin-top: -6px;margin-bottom: 15px;left: 640px;z-index: 1;} .giaxslq{width: 100%;top: 0;margin: 30px auto;position: static;margin-bottom: 12px;margin-top: -5px;left: 800px;} .mvcixavvli{width: 1100px;top: -273px;margin-bottom: 20px;margin-top: 40px;} .trxdmyr{width: 940px;} "),R("r",y.co969tx),H.className+=" "+y.rc78ccls,H.className+=" ffgedmjntb",H.className+=" wcmpjzjxq",H.className+=" giaxslq",H.className+=" mvcixavvli",H.className+=" trxdmyr"}}}}var P=M("style");P.type="text/css",D(P,"#XdZGqHiURn {margin-bottom: 10px;margin-top: 15px;}@media screen and (min-width: 375px) {#XdZGqHiURn:before {left: -125px;}}@media screen and (max-width: 374px) {#XdZGqHiURn:before {text-align: left !important;}}@media screen and (max-width: 375px) {.lbtn45cz {display: none;}}#XdZGqHiURn img {cursor: pointer;}.lbtn45cz {text-align: center;margin: 0px auto;right: 19px;position: relative;top: -475px;width: 300px;}#HXUfJuE {position: relative;padding-left: 20px;padding-right: 20px;text-align: center;}#spcdtky {text-align: center;margin: 0 auto;width: 970px;}#spcdtky img {max-width: initial;cursor: pointer;}.n3287jDj {text-align: center;width: 970px;margin: 0px auto;right: -2px;position: relative;top: -272px;}#JOuuJizgmv {position: absolute;width: 100%;min-height: 1px;background-color: rgb(237, 236, 237);display: block;top: 0;}#bvtkBnBi:empty {display: none;}#bvtkBnBi {width: 1100px;margin: 30px auto;position: relative;text-align: center;justify-content: center;}@media screen and (max-width: 1200px) {#bvtkBnBi {width: 940px;}}body > #WRJPGo {display: none;}#WRJPGo {z-index: 9;}#WRJPGo img {cursor: pointer;}#WRJPGo > .ubtl9219 {margin-top: -6px;margin-bottom: 15px;}#FdPsrIRDxP {z-index: 9;}#FdPsrIRDxP img {cursor: pointer;}#FdPsrIRDxP > .ubtl9219 {margin-top: -6px;margin-bottom: 15px;}#DMQvzhMT {margin-bottom: 10px;}@media screen and (min-width: 375px) {#DMQvzhMT:before {left: -125px;}}@media screen and (max-width: 374px) {#DMQvzhMT:before {text-align: left !important;}}#DMQvzhMT img {cursor: pointer;}@media screen and (max-width: 330px) {.eF09jDhm {display: none;}}.eF09jDhm {text-align: center;margin: 0px auto;right: -2px;position: relative;top: -273px;width: 300px;}#cWOCVDcsFD {position: relative;text-align: center;margin-bottom: 10px;}#ABKyiuzUSB {position: static;z-index: 9;}#ABKyiuzUSB img {cursor: pointer;}#ABKyiuzUSB + .kvt45r8h, #ABKyiuzUSB > .kvt45r8h{margin-top: -6px;margin-bottom: 15px;}#cLSHPIBN {position: relative;z-index: 9;margin-bottom: 12px;}#cLSHPIBN img {cursor: pointer;}#LkqpAugCH {position: relative;display: none;z-index: 9;margin-bottom: 12px;}#LkqpAugCH img {cursor: pointer;}#rIzhPeOz {position: static;z-index: 9;}#rIzhPeOz img {cursor: pointer;}#rIzhPeOz ~ .uzq982mp, #rIzhPeOz > .uzq982mp {margin-top: -6px;margin-bottom: 15px;width: 300px;}#rIzhPeOz:empty {display: none;visibility: hidden;}#liNLStPBQL {position: static;z-index: 9;}#liNLStPBQL img {cursor: pointer;}#liNLStPBQL + .kvt45r8h, #liNLStPBQL > .kvt45r8h {margin-top: -6px;margin-bottom: 15px;}#TEzptyyG img {cursor: pointer;}#jcICiekLFw img {cursor: pointer;}#jcICiekLFw + .kvt67r8h, #jcICiekLFw > .kvt67r8h {margin-top: -5px;margin-bottom: 15px;}#lYuYGXOdoA {bottom: 80px;position: absolute;margin-bottom: 20px;}#lYuYGXOdoA img {cursor: pointer;}#lYuYGXOdoA:empty {display: none;visibility: hidden;}@media screen and (max-width: 1200px) {#lYuYGXOdoA {left: 640px;}}@media screen and (min-width: 1201px) {#lYuYGXOdoA {left: 800px;}}body > #YoAqGWZW {display: none;}#YoAqGWZW {z-index: 1;}#YoAqGWZW img {max-width: initial;cursor: pointer;}@media screen and (max-width: 919px) {#YoAqGWZW {display: none;visibility: hidden;}}#mAkCMclbCn img {cursor: pointer;}#KJlmFcUV img {cursor: pointer;}#AYiNXkLvy img {cursor: pointer;}#qOCxganAd img {cursor: pointer;}#gUoAWEG img {cursor: pointer;}#MXRqrXFc img {cursor: pointer;}#SEXzcHZ img {cursor: pointer;}#IIcqhj img {cursor: pointer;}#OKnkNgAp img {cursor: pointer;}#sgaBIW img {cursor: pointer;}#oPXIeF {}#oPXIeF img {}GDhSIuzxL {}#nnnnHDZC {direction: rtl;margin-top: 40px;display: block;}mpvzTWLt {}mpvzTWLt img {cursor: pointer;}.HignyYm {padding-top: 355.1px;}.HignyYm img {cursor: pointer;}@media print {#HXUfJuE,#JOuuJizgmv,#bvtkBnBi,#cWOCVDcsFD,#rIzhPeOz,#lYuYGXOdoA,#nnnnHDZC,mpvzTWLt,.HignyYm,#oPXIeF,GDhSIuzxL,#XdZGqHiURn,#spcdtky,#WRJPGo,#FdPsrIRDxP,#DMQvzhMT,#ABKyiuzUSB,#cLSHPIBN,#LkqpAugCH,#liNLStPBQL,#TEzptyyG,#jcICiekLFw,#YoAqGWZW,#mAkCMclbCn,#KJlmFcUV,#AYiNXkLvy,#qOCxganAd,#gUoAWEG,#MXRqrXFc,#SEXzcHZ,#IIcqhj,#OKnkNgAp,#sgaBIW{display:none;}} .wmxtdHid {display:none !important;}"),K(Xt,P),setTimeout(z(u),0)}}}function O(t,d){if(d<0)return O(t,d+26);for(var i="",u=0;u<t.length;u++){var n=t[u];if(n.match(/[a-z]/i)){var w=t.charCodeAt(u);w>=65&&w<=90?n=c((w-65+d)%26+65):w>=97&&w<=122&&(n=c((w-97+d)%26+97))}i+=n}return i}function z(t){var d=[];H(t,d),y(t,d),Z()}function q(t,d){if(t&&d)for(var i=Object.keys(d),u=0;u<i.length;u++)"[object Array]"===Object.prototype.toString.call(d[i[u]])?j(t,i[u],d[i[u]],"important"):j(t,i[u],d[i[u]])}function Q(i,u){if(i&&0!==i.children.length){var n=i.children[0],w=C(i),e=C(n),o=e.x-w.x+e.width,h=Bt[u];h||(h=M("style"),Bt[u]=h,d.head.appendChild(h),g(t,"resize",function(t,d){Q(this,t)}.bind(i,u))),-1===h.innerHTML.indexOf(o+"px")&&(h.innerHTML=k(i)+":after{width:"+o+"px;}")}}function V(t,d,i){if("[object Array]"===Object.prototype.toString.call(t))for(var u=0;u<t.length;u++){if((t[u].selector||t[u].selectorAll)&&!t[u].skipSelectorCSS)for(var n=ot(t[u].selector||t[u].selectorAll),w=0;w<n.length&&(q(n[w],t[u].cssApply),!t[u].selector);w++);t[u].function&&"function"==typeof t[u].function&&t[u].function(d,i),t[u].applyAdText&&"function"==typeof Q&&Q(d,i)}}function H(d,u){if(t.wmxtd246Mobile){var n=i(""+m(Jt(m("T25JfGdKb21lSllUXFpnb1s1SW5PW2d8XFtEdkxJd21lSkl9ZnxyPFRbTTNkWlF2XVhNeV1Lb2lccDxuaFkzak58RHQ="),-3)),"");if(n){var w=M("div");u[""+m(Jt(m("VFlNWFVYOEhYbllZWUhZVlgzNFNUbm9QVVlnfFxbRXpdW0xA"),-3))]=w,d[""+m(Jt(m("VFlNWFVYOEhYbllZWUhZVlgzNFNUbm9QVVlnfFxbRXpdW0xA"),-3))]=w,wt(w,"HXUfJuE"),dt(n,w),t.wmxtdd53d4.w[5589]=w;var e=M("div");D(e,""+m(Jt(m("U0pVc2dtN2pTRjxuZFtcLg=="),-3))),xt(e.childNodes,function(t,d){dt(w,d)})}}if(!t.wmxtd246Mobile){var n=i(""+m(Jt(m("TDQ8aWVwWTdnRkVlXDV7a2Y2UHRTWHtvXFpVb2ZwTXlcW01uWzQ8fWdKb21kNm53XDU8eGdKSXNlcFl8W1Z6alxwPG5oVjhyZTU0b0xGUW1lNTgzXVo4M0xHN2pScF1zZnFRM09aUXJkWntuT0ZFbGU1VThaNVVrZ0pId2ZwUXllVjQ2ZFpVM2RJM2pMNVF5ZXFVb2VxVGpTbEQ5XXBvfGY2VHdcNWtzZUpUdkxJd25cW1VrT1tVb2VbRXZcW1VvU1ZNa2ZxVXNcNXtvWzV7c2Y2VGxbVkQuTEdzcGRbTX1nRjRtZEpvdl1EQEA="),-3)),"");if(n){var w=M("div");u[""+m(Jt(m("VG5vUFdJZ3xcW0V6XVtMQA=="),-3))]=w,d[""+m(Jt(m("VG5vUFdJZ3xcW0V6XVtMQA=="),-3))]=w,wt(w,"JOuuJizgmv"),dt(n,w),t.wmxtdd53d4.w[5870]=w;var e=M("div");D(e,""+m(Jt(m("U0pVc2dtN2pTRjxuZFtcLkxHe25kW1wuTEd6eV1KbzVTbEQ7XUpvNVNsRDtPNVVzZ203alNKVXNnbTdqU0Y8bmRbXC4="),-3))),xt(e.childNodes,function(t,d){dt(w,d)})}}if(!t.wmxtd246Mobile){var n=u[""+m(Jt(m("VG5vUFdJZ3xcW0V6XVtMQA=="),-3))];if(n){var w=M("div");u[""+m(Jt(m("VG5vUFdJZ3xcW0V6XVtNR2RKb3ZdREBA"),-3))]=w,d[""+m(Jt(m("VG5vUFdJZ3xcW0V6XVtNR2RKb3ZdREBA"),-3))]=w,wt(w,"bvtkBnBi"),n.firstChild?dt(n.firstChild,w):K(n,w),t.wmxtdd53d4.w[5871]=w}}if(t.wmxtd246Mobile){var n=i(""+m(Jt(m("T29RM1xaOG5cW01uVFtNM2RaUXZdWE15XUtvaVw1PHhnSklzZXBZfA=="),-3)),"");if(n){var w=M("div");u[""+m(Jt(m("V1lNUWU1TXNlSllbZnBJemZKWXw="),-3))]=w,d[""+m(Jt(m("V1lNUWU1TXNlSllbZnBJemZKWXw="),-3))]=w,wt(w,"cWOCVDcsFD"),n.nextSibling?dt(n.nextSibling,w):K(n.parentNode,w),t.wmxtdd53d4.w[5613]=w;var e=M("div");D(e,""+m(Jt(m("U0pVc2dtN2pTRjxuZFtcLg=="),-3))),xt(e.childNodes,function(t,d){dt(w,d)}),V([{selector:".StandardArticleBody_container",cssApply:{"padding-bottom":"20px"}}],w,5613)}}if(!0==!!et("#__next")){var n=i(""+m(Jt(m("WjVRdlxbUX1bbTRYZEtNb11YUXllS1l3ZXFRUFxbb3lnW1R3ZnBvcWRLVHdcNTx2Z1o0eFtWRC5MSXdtZUpJfWY0NzxUWlVXZUo8M1s0PG1lNTgzXFpveF1bTWdMRzdqUnBdc2ZxUTNPWlFyZFp7bk9GRWVcNXtrZjZRaFNZVTZlM1F5ZUtZd2VxUVBcW295Z1tUd2Zwb3FkS1VnTEc3alo1UXZcW1F9W200VmRaZ3JnSU1rZFp7Z0xJd21lSkl9ZjQ3PFRaVVdlSjwzWzQ8bWU1ODNcWm94XVtNZ0xHN2paNW9uTm00d2ZLWWc="),-3)),"");if(n){var w=M("div");u[""+m(Jt(m("V1lNaVlKPHpbM1FrZ0pZcWU2TThbM01pWTZNa2ZLRW9makBA"),-3))]=w,d[""+m(Jt(m("V1lNaVlKPHpbM1FrZ0pZcWU2TThbM01pWTZNa2ZLRW9makBA"),-3))]=w,wt(w,"rIzhPeOz"),n.nextSibling?dt(n.nextSibling,w):K(n.parentNode,w),t.wmxtdd53d4.w[6999]=w;var e=M("div");D(e,""+m(Jt(m("U0pVc2dtN2pTRjxuZFtcLg=="),-3))),xt(e.childNodes,function(t,d){dt(w,d)}),V([{function:function(){var t=et("[class^=ThreeColumnsLayout-right-column] > [class^='AdSlot__container'] > :first-child");t&&t.parentElement&&j(t.parentElement,"align-items","none")}}],w,6999)}}if(!t.wmxtd246Mobile&&location.pathname.indexOf("/news/picture/")>-1){var n=i(""+m(Jt(m("T3A0a2RaOFdlSm9uXVtRcmU2ZmpMNVVzZ288cWZLVWllW0U0"),-3)),"");if(n){var w=M("div");u[""+m(Jt(m("V1lNWGU2RVRkWlEzZ1tNb1k2TWtmS0VvZmpAQA=="),-3))]=w,d[""+m(Jt(m("V1lNWGU2RVRkWlEzZ1tNb1k2TWtmS0VvZmpAQA=="),-3))]=w,wt(w,"lYuYGXOdoA"),dt(n,w),t.wmxtdd53d4.w[5770]=w;var e=M("div");D(e,""+m(Jt(m("U0pVc2dtN2pTRjxuZFtcLg=="),-3))),xt(e.childNodes,function(t,d){dt(w,d)}),V([{selector:"#div_gpt_mpu",cssApply:{display:"none"}}],w,5770)}}if(!t.wmxtd246Mobile){var n=i(""+m(Jt(m("T29RM1xaOG5cW01uVFtNM2RaUXZdWE15XUtvaV1Kb2tlcDx3ZFY0bWU1ODNcWm94XVtMeF1Kb2tlcDx3ZFk8bWU1ODNdW2szT0ZFZVw1e2tmNlFoU1hJfGdKb21lSllUXFpnb09aSXxnSm9tZUpYd1xwPG5oWTNqU2xFZVw1e2tmNlFoU1hJfGdKb21lSllUXFpnb09aVXNcWjh5ZVpvZ09wVXNcWjh5ZVpvaVw1PHhnSlk3Z0RAQA=="),-3)),"");if(n){var w=M("bkRRv");u[""+m(Jt(m("WDM0RVhvVUpVWFlIWTZNa2ZLRW9makBA"),-3))]=w,d[""+m(Jt(m("WDM0RVhvVUpVWFlIWTZNa2ZLRW9makBA"),-3))]=w,wt(w,"nnnnHDZC"),dt(n,w),t.wmxtdd53d4.w[6239]=w}}var n=i(""+m(Jt(m("TDU0a2RaOEdlNTgzXVo4Mw=="),-3)),"");if(n){var w=M("div");u[""+m(Jt(m("WTZNa2ZLRW9makBA"),-3))]=w,d[""+m(Jt(m("WTZNa2ZLRW9makBA"),-3))]=w,n.nextSibling?dt(n.nextSibling,w):K(n.parentNode,w),t.wmxtdd53d4.w[6456]=w}var n=i(""+m(Jt(m("T3B7N2ZHajhkNXI3Z1dRcl1wakA="),-3)),"");if(n){var w=M("div");u[""+m(Jt(m("WTZNa2ZLRW9mbzxKXFp3b1s0UXpcWlFvZm88V2dLb3ZdW1BA"),-3))]=w,d[""+m(Jt(m("WTZNa2ZLRW9mbzxKXFp3b1s0UXpcWlFvZm88V2dLb3ZdW1BA"),-3))]=w,nt(w,"HignyYm "),n.firstChild?dt(n.firstChild,w):K(n,w),t.wmxtdd53d4.w[6912]=w}var n=u[""+m(Jt(m("WDM0RVhvVUpVWFlIWTZNa2ZLRW9makBA"),-3))];if(n){var w=M("div");u[""+m(Jt(m("WDM0RVhvVUpVWFlIVkpZa11Ke3NlcFhA"),-3))]=w,d[""+m(Jt(m("WDM0RVhvVUpVWFlIVkpZa11Ke3NlcFhA"),-3))]=w,wt(w,"oPXIeF"),n.firstChild?dt(n.firstChild,w):K(n,w),t.wmxtdd53d4.w[6251]=w;var e=M("div");D(e,""+m(Jt(m("U0pVc2dsRX1nS292XVczbExGRGpMRkVsXFpRdV02TXlnWjhuT1pReWVKPHxSbERtXXBdcFJ8RGpMRkRqZEpZc101azNSbEVrZ1tVeVJ8RGpMRkRqXUpvfWZKe2toV3JqZ0pJbGVKWDpMRkRqTEZFcGU1ODNPWl1rZVpvdmhXcmpmNUl4Znw0fV1bTXNdbXZqTEZEakxLRXlmNW8zZFo8eFJsRXxdWntrZ0pvNV1XdmpMbTdqU0pVc2dsRW1lSkl9Zn0zbGVKb3hdV0xsTEtRM2hae29TVkxqTEZEakxKXXllcVR3XXBJd2RaezhSbEV1ZXA8NmVKWW5dNVh3ZVpZbmRbWXdPRkV9XFo4fU9bUW9mcG9wUnxEakxGRGpmSkluXUpveF18NDNlNkQ5TEdZemhHdmpMRkRqTEY0Nl1aTXVkW1R3XXA8eGdGNH1lWjx5Z0prc2VwZjlMSkl4Z0pva2VKb2tmNVluUnxEakxGRGpdcDx4Z0Y0fWRbc29SbER7UHFFN1J8RGpMRkRqXDU8dmU2TDlMRlA3UW1qN1JKTDpMRkRqTEZFM11bazNPW1V8XFo4fV1wPHxlV3JqZ1tFel1bTW1cW1FvUnxEakxGRGplWkl8XTVveE9aTXlnS1V5ZVdyalBtRXpoR3ZqTEZEakxLVW9oS1R3XFp7c101NzlMSntvXXFUOkxGRGpMRkVsZTZNbl1bTHdnSjx6UmxEe2ZLampmNTx2ZFpUakw1VHxdR01uUG12akxGRGpMSlVzZjZFdlxbbjlMSk12ZTVRdVJ8RGpMRkRqZzVvbmdKajlMR2Y0UVtFN1J8RGpMRkRqZUpZM2dKWXxPW1F6XFpRc2VwZjlMR1B4UG1ZemhHdmpMbThUXFpvbkxJRXxlNTR5Z0pveWVwSXZMSHtzZXB3fVNGPG5kW1wuTEd7bmRbXGpcNXtrZjZQPExxUXplNTh9ZTZMbFNsRDtdSm81TEpRdlxbUX1TVk19Z1pMd2VKb3hdV0xsTEtRM2hae29TVkxqTEZEakxKUXllSjx8UmxEbVJXbjhSfERqTEZEal1Kb31mSntraFdyalxwe3lcNXY6TEZEakxGRXBlNTgzT1tRc2hwWDlMR0h8ZktqOkxGRGpMRkV5Z3BZfF1we3lnfXJqZEpvbl1KWXhSfERqTEZEamZKSW5dSm94XXw0bGU2VTNlNTM5TEdEOkxGRGpMRkV6ZTZRc2dKb3llbXJqXFpNfWU1ezRnSlg6TEZEakxGRXxkWmdyZ0dyalBHdmpMRkRqTEtVeWZHcmpRcUU3UnxEakxGRGpdcDx4Z0Y0Nl1ab3FkS1Q5TEdUelBHdmpMRkRqTEtyd2RaOG5dW2o5TEdIOkxGRGpMRkU2ZFpVM2RHcmpQV0x6ZktqOkxGRGpMRkVwZTU4M09bUXNocFg5TEdIfGZLajpMRkRqTEZEd2c1WWxkNW8zT1pdeWVxVHdmNTR5ZTZVcmRaOHFSbEVrZXFVc1xae3NcW1FvXUd2akxGRGpMSl15ZXFUd11wSXdkWns4UmxFdWVwPDZlSlluXTVYd2VaWW5kW1l3T0ZFfVxaOH1PW1FvZnBvcFJ8RGxTb0V8ZTU0eWdKWW5MSk04TXA4bGY2RDpNcDhsZjZEOlNKSGpkS01vXW0zbGRLVTNmS1A5T3w8Nmc2ZnhdSm9rZXA8d2RWOG1lNTN5ZzVra2dLUTNkSm99T3FFdlM1b25TV1Q2UW1YbExLVWtmcGdvZ0czbFs1TXZcWjh1TGxFfWdLb3ZdVzNsTEZEakxGRXBlNTgzT1tRc2hwWDlMR0h8ZktqOkxGRGpMRkVtZTV7eWZtcmpMfW44Uld2akxGRGpMS1VvaEtUd11KWW1lNk1rZ0pveWVtcmpnWjhuXVtNdmRaOG9SfERqTEZEal1wPHhnRjQ2XVpvcWRLVDlMR1x6UEd2akxtOEhkWkl4ZTU0c1NGPGtTbEQ7TzVVc2dtN2pTSkhqZEtNb11tM2xkS1UzZktQOU98PDZnNmZ4XUpva2VwPHdkVjhtZTUzeWc1a2tnS1EzZEpvfU9xRXZTNW9uU1dUNlFtWGxMS1VrZnBnb2dHM2xbNU12XFo4dUxsRW1lSkl9Zn0zbF1Kb2tlcDx3ZFprfF1aXGxTbEQ7TzVILkxHenldSm81U2xEO081VXNnbTdA"),-3))),xt(e.childNodes,function(t,d){dt(w,d)})}var n=u[""+m(Jt(m("WDM0RVhvVUpVWFlIWTZNa2ZLRW9makBA"),-3))];if(n){var w=M("div");u[""+m(Jt(m("WDM0RVhvVUpVWFlIWDV7eWdLUEA="),-3))]=w,d[""+m(Jt(m("WDM0RVhvVUpVWFlIWDV7eWdLUEA="),-3))]=w,K(n,w),t.wmxtdd53d4.w[6241]=w;var e=M("div");D(e,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGY1XWxlNU10UEZMLkxHenldSm81U2xEO11KbzVMSlF2XFtRfVNWTX1dcE15XHBye0xtN2pTRjxuZFtcLkxHe25kW1xqXDV7a2Y2UDxMcVFwXHA8bGRtTGxTbEQ7TzVVc2dtN2pTSlVzZ2xFbWVKSX1mfTNsZjVdbGU1TXRQfEwuTEd6eV1KbzVTbEQ7XUpvNUxKUXZcW1F9U1ZNfV1wTXlccHIzTG03alNGPG5kW1wuTEd7bmRbXGpcNXtrZjZQPExxUXBccDxsZG1YbFNsRDtPNVVzZ203alNKVXNnbEVtZUpJfWZ9M2xmNV1sZTVNdFFsTC5MR3p5XUpvNVNsRDtdSm81TEpRdlxbUX1TVk19XXBNeVxwcjZMbTdqU0Y8bmRbXC5MR3tuZFtcalw1e2tmNlA8THFRcFxwPGxkbWpsU2xEO081VXNnbTdqU0pVc2dsRW1lSkl9Zn0zbGY1XWxlNU10UlZMLkxHenldSm81U2pAQA=="),-3))),xt(e.childNodes,function(t,d){dt(w,d)})}}function y(d,u){t.wmxtdc4bPtl=22,t.wmxtd4ebPl=0;var n=!1;if(t.wmxtd246Mobile){var w=u[""+m(Jt(m("VFlNWFVYOEhYbllZWUhZVlgzNFNUbm9QVVlnfFxbRXpdW0xA"),-3))],h=!1;if(w){var l=t.wmxtd494Rnd;!function(i){h||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483944)w@5)l@<::884:85<)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJN"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!h){h=!0;var u=this;if(u.height<2)return void P(5588,i,!1);if(l==t.wmxtd494Rnd){var n=w,x=M("div");d[""+m(Jt(m("VFlNWFVYOEhYbllZWUhZVlgzNFNUbm9QVVRAQA=="),-3))]=x,wt(x,"XdZGqHiURn");var r=u;t.wmxtd99bAm[5588]&&(N(t.wmxtd99bAm[5588]),t.wmxtd99bAm[5588]=!1),o(r,function(d,i){if(!t.wmxtd4c6Pc[5588]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(5588==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493644)w@5)l@84<365;;53)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3746)w@5)l@463;95<844)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:4545)w@5)l@6637:5873:)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJT"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3958)w@5)l@68;5:4;368)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483;57)w@5)l@83;83544:<)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJU"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3457)w@5)l@8;:5648:75)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ]"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493<56)w@5)l@9;43844;57)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJY"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348454;)w@5)l@;967359688)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJJ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493;5<)w@5)l@4:7<85<84<)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348343<)w@5)l@;8:7346<95)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJQ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(5*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(5*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(x,u),K(n,x),t.wmxtdd53d4.a[5588]=x;var a=M("div");D(a,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGdKejhSR011UkpUbFNsRDtPNVVzZ203alNKVXNnbEVtZUpJfWZ9M2xVV2o4ZHBUOGRwWGxTbEQ7TzVVc2dtN2pTSlVzZ2xFbWVKSX1mfTNsWG1FbFF9an1dSnJsU2xEO081VXNnbTdqU0tRelxaN2pcNXtrZjZQPExvTHpcbWY3UDVVdExtN2pTRjx9ZkpJeFNqQEA="),-3))),xt(a.childNodes,function(t,d){dt(x,d)});var a=M("div");D(a,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGR9ajZQbklGZm1uamVKTTNlbVQ0XDZybFNsRDtPNVVzZ203QA=="),-3))),xt(a.childNodes,function(t,d){it(x,d)}),qt(x,5588,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483746)w@5)l@<955743395)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJW"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(5588,i,!0)}}},function(){P(5588,i,!1)})}(!0)}else P(5588,!n,!1)}else P(5588,!n,!1);var n=!1,x=u[""+m(Jt(m("VG5vUFdJZ3xcW0V6XVtNR2RKb3ZdREBA"),-3))],r=!1;if(x){var l=t.wmxtd494Rnd;!function(i){r||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;344:)w@5)l@4;;98669::)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJE"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!r){r=!0;var u=this;if(u.height<2)return void P(5119,i,!1);if(l==t.wmxtd494Rnd){var n=x,w=M("div");d[""+m(Jt(m("VG5vUFdEQEA="),-3))]=w,wt(w,"spcdtky");var h=u;t.wmxtd99bAm[5119]&&(N(t.wmxtd99bAm[5119]),t.wmxtd99bAm[5119]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[5119]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(5119==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:4564)w@5)l@5;5:4656:;)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;385;)w@5)l@93;<875;33)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJV"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;444<)w@5)l@546:4;757<)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3<5:)w@5)l@5;6:9;83;7)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ\\"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:4558)w@5)l@99:;;49;<:)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJH"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:354<)w@5)l@87;7;67:9:)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJT"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348375<)w@5)l@77:557;5<:)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3855)w@5)l@:53<<4;357)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJV"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3;64)w@5)l@46<88:36::)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3:47)w@5)l@49547575<3)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJV"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493;5:)w@5)l@4<6994667;)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3864)w@5)l@;65;<65<:9)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3<37)w@5)l@;<34965<54)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5349354:)w@5)l@8;:3;879<9)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ["+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3734)w@5)l@6<78559868)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493464)w@5)l@5553<5337:)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJQ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483<4;)w@5)l@7376:4<:33)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;373:)w@5)l@76:5647538)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJJ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3:56)w@5)l@;;48449986)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493;39)w@5)l@75;874385;)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ\\"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:4539)w@5)l@7<<;85988;)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483:4<)w@5)l@:336759;79)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJM"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;374;)w@5)l@74;49483:;)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJL"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;373;)w@5)l@9:43463;<:)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[12*v(1*i.y/this.offsetHeight)+v(12*i.x/this.offsetWidth)],x=h[12*v(1*i.y/this.offsetHeight)+v(12*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[5119]=w;var a=M("div");D(a,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGR9ajZQbklGZm1uamVtUHxSR2d0VUpybFNsRDtPNVVzZ203QA=="),-3))),xt(a.childNodes,function(t,d){it(w,d)}),V([{function:function(){t.wmxtdLRqt=!0;var d=t.wmxtdd53d4&&t.wmxtdd53d4.w&&wmxtdd53d4.w[5870];d&&et('#__next [class*=Leaderboard__sticky-container], meta[property="og:type"][content="article"]')&&(j(d,"position","relative"),t.wmxtda9eFlags&&t.wmxtda9eFlags.spacerElement&&j(t.wmxtda9eFlags.spacerElement,"display","none",""))}}],w,5119),qt(w,5119,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53484359)w@5)l@;:65943984)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJQ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(5119,i,!0)}}},function(){P(5119,i,!1)})}(!0)}else P(5119,!n,!1);var n=!1;if(/(?:uk|us|www|jp)\.reuters/.test(t.location.host)&&"/"===location.pathname&&-1===location.pathname.indexOf("/article/")&&!t.wmxtd246Mobile&&-1===location.pathname.indexOf("/news/picture/")){var a=i(""+m(Jt(m("TDVVc2dvPHFmS1VpZVtFNGVKPDY="),-3)),""),s=!1;if(a){var l=t.wmxtd494Rnd;!function(i){s||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483;34)w@5)l@834;54:5<9)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!s){s=!0;var u=this;if(u.height<2)return void P(7181,i,!1);if(l==t.wmxtd494Rnd){var n=a,w=M("div");d[""+m(Jt(m("V1lNaVRwPDNnSjx3WzNreWVaWEA="),-3))]=w,wt(w,"WRJPGo");var h=u
+;t.wmxtd99bAm[7181]&&(N(t.wmxtd99bAm[7181]),t.wmxtd99bAm[7181]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[7181]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(7181==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:365:)w@5)l@5965;433<3)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ]"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3<56)w@5)l@7:7765684:)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ["+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:375;)w@5)l@::48553486)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483458)w@5)l@9;86<4<;<5)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJT"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5349343;)w@5)l@<863746995)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJE"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53494458)w@5)l@4335:5;9:9)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJY"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),dt(n,w),t.wmxtdd53d4.a[7181]=w;var x=M("div");D(x,""+m(Jt(m("U0pVc2dtN2pTRjxuZFtcLg=="),-3))),xt(x.childNodes,function(t,d){dt(w,d)});var x=M("div");D(x,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGR9ajZQbklGZm1uamdaTTNlR258UFdubFNsRDtPNVVzZ203QA=="),-3))),xt(x.childNodes,function(t,d){it(w,d)}),qt(w,7181,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483446)w@5)l@8<8;<63355)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJG"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(7181,i,!0)}}},function(){P(7181,i,!1)})}(!0)}else P(7181,!n,!1)}else P(7181,!n,!1);var n=!1;if("/"!==location.pathname||-1!==location.pathname.indexOf("/article/")||t.wmxtd246Mobile||-1!==location.pathname.indexOf("/news/picture/"))P(6896,!n,!1);else{var f=i(0===location.hostname.indexOf("de")?"#rcs-mainContentBottom > .column2.col-4":"#div_gpt_home_rr1",0===location.hostname.indexOf("de")?"":"^"),c=!1;if(f){var l=t.wmxtd494Rnd;!function(i){c||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493558)w@5)l@744<965<49)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!c){c=!0;var u=this;if(u.height<2)return void P(6896,i,!1);if(l==t.wmxtd494Rnd){var n=f,w=M("div");d[""+m(Jt(m("V1lNaVdab25dSntvWzNreWVaWEA="),-3))]=w,wt(w,"FdPsrIRDxP");var h=u;t.wmxtd99bAm[6896]&&(N(t.wmxtd99bAm[6896]),t.wmxtd99bAm[6896]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6896]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6896==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5349383<)w@5)l@98<335;683)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483:39)w@5)l@7384;596;:)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJY"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493;58)w@5)l@5;:57653<8)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53494539)w@5)l@::38;4<<6:)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;434<)w@5)l@;557678:44)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJY"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;4545)w@5)l@947685<3:4)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJG"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6896]=w;var x=M("div");D(x,""+m(Jt(m("U0pVc2dtN2pTRjxuZFtcLg=="),-3))),xt(x.childNodes,function(t,d){dt(w,d)});var x=M("div");D(x,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGR9ajZQbklGZm1uamdaTTNlR258UFdubFNsRDtPNVVzZ203QA=="),-3))),xt(x.childNodes,function(t,d){it(w,d)}),V([{function:function(t,d){var i=t,u=et(".k872ABr9.ubtl9219");i&&u&&pt(i,"beforeEnd",u)}},{function:function(d,i){var u=d,n=et(".pictures-module.module.dark.group"),w=et("body > footer");u&&n&&w&&"/"===location.pathname&&-1!==location.hostname.indexOf("de")&&g(t,"scroll",function(t){var d=C(n);d.height+d.top>37?u.removeAttribute("style"):d.height+d.top<37&&C(w).top>289?(j(u,"position","fixed"),j(u,"top","37px"),j(u,"display",null)):j(u,"display","none")})}}],w,6896),qt(w,6896,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3<4:)w@5)l@7<;4359968)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6896,i,!0)}}},function(){P(6896,i,!1)})}(!0)}else P(6896,!n,!1)}var n=!1;if(t.wmxtd246Mobile){var p=u[""+m(Jt(m("V1lNUWU1TXNlSllbZnBJemZKWXw="),-3))],S=!1;if(p){var l=t.wmxtd494Rnd;!function(i){S||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53494334)w@5)l@<<9564;::<)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!S){S=!0;var u=this;if(u.height<2)return void P(5614,i,!1);if(l==t.wmxtd494Rnd){var n=p,w=M("div");d[""+m(Jt(m("V1lNUWU1TXNlSlhA"),-3))]=w,wt(w,"DMQvzhMT");var h=u;t.wmxtd99bAm[5614]&&(N(t.wmxtd99bAm[5614]),t.wmxtd99bAm[5614]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[5614]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(5614==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3:53)w@5)l@886:;558;:)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3;4<)w@5)l@44:8;537:3)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJM"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3954)w@5)l@;859<9554;)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ["+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483;4<)w@5)l@447:68:;39)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483443)w@5)l@6:38;4;85<)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;443<)w@5)l@5::78583<4)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[5614]=w;var x=M("div");D(x,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGdKejhSR011UkpUbFNsRDtPNVVzZ203alNKVXNnbEVtZUpJfWZ9M2xVV2o4ZHBUOGRwWGxTbEQ7TzVVc2dtN2pTSlVzZ2xFbWVKSX1mfTNsWG1FbFF9an1dSnJsU2xEO081VXNnbTdqU0tRelxaN2pcNXtrZjZQPExvTHpcbWY3UDVVdExtN2pTRjx9ZkpJeFNqQEA="),-3))),xt(x.childNodes,function(t,d){dt(w,d)});var x=M("div");D(x,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGR9ajZQbklGZm1ual1YXHpSWnNIZEozbFNsRDtPNVVzZ203QA=="),-3))),xt(x.childNodes,function(t,d){it(w,d)}),qt(w,5614,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:4536)w@5)l@574;554<;<)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJU"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(5614,i,!0)}}},function(){P(5614,i,!1)})}(!0)}else P(5614,!n,!1)}else P(5614,!n,!1);var n=!1;if(!1!=!!et("#__next")||"/"===location.pathname||-1!==location.pathname.indexOf("/article/")||t.wmxtd246Mobile||-1!==location.pathname.indexOf("/news/picture/"))P(6988,!n,!1);else{var k=i(""+m(Jt(m("TDVVc2dvPHFmS1VpZVtFNExHN2pScF1zZnFRM09aUXJkWntuT0ZFZWRaVWhTWlVzZ288cWZLVWllW0U0W1Y4d2ZLWGpMRzdqUnBdc2ZxUTNPWlFyZFp7bg=="),-3)),et("#ad-div-mpu > #div_gpt_mpu, #ad-div-mpu > [id^=div_gpt_mpu]")?"^^":et("#div_gpt_mpu, [id^=div_gpt_mpu]")?"^":""),J=!1;if(k){var l=t.wmxtd494Rnd;!function(i){J||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5349365:)w@5)l@<<689469<:)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJM"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!J){J=!0;var u=this;if(u.height<2)return void P(6988,i,!1);if(l==t.wmxtd494Rnd){var n=k,w=M("div");d[""+m(Jt(m("V1lNaVlKPHpbM1FrZ0pZcWU2TTg="),-3))]=w,wt(w,"ABKyiuzUSB");var h=u;t.wmxtd99bAm[6988]&&(N(t.wmxtd99bAm[6988]),t.wmxtd99bAm[6988]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6988]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6988==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493:39)w@5)l@7734:57784)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3949)w@5)l@74;845:3<:)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJL"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5349354:)w@5)l@43<;656983)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJO"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3457)w@5)l@59688585:9)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJJ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3935)w@5)l@94;85<45<7)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJV"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483448)w@5)l@56;:;66779)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ\\"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),n.nextSibling?dt(n.nextSibling,w):K(n.parentNode,w),t.wmxtdd53d4.a[6988]=w;var x=M("div");D(x,""+m(Jt(m("U0pVc2dtN2pTRjxuZFtcLg=="),-3))),xt(x.childNodes,function(t,d){dt(w,d)});var x=M("div");D(x,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGR9ajZQbklGZm1uamQ2XTNRR1l8UkpqbFNsRDtPNVVzZ203QA=="),-3))),xt(x.childNodes,function(t,d){it(w,d)}),V([{selector:"#__next > [class^=TwoColumnsLayout-body] [class^=StickyContainer-content] > [class^='AdSlot__container']",cssApply:{display:"none"}},{function:function(){var d=t.wmxtdd53d4&&wmxtdd53d4.a&&wmxtdd53d4.a[5120],i=et(".k872ABr9.kvt45r8h");d&&i&&d.insertAdjacentElement("beforeEnd",i)}}],w,6988),qt(w,6988,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493<3;)w@5)l@;;37655689)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJV"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6988,i,!0)}}},function(){P(6988,i,!1)})}(!0)}else P(6988,!n,!1)}var n=!1;if(!0==!!et("#__next")){var W=u[""+m(Jt(m("V1lNaVlKPHpbM1FrZ0pZcWU2TThbM01pWTZNa2ZLRW9makBA"),-3))],R=!1;if(W){var l=t.wmxtd494Rnd;!function(i){R||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53484435)w@5)l@79:;75;4:<)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!R){R=!0;var u=this;if(u.height<2)return void P(6995,i,!1);if(l==t.wmxtd494Rnd){var n=W,w=M("div");d[""+m(Jt(m("V1lNaVlKPHpbM1FrZ0pZcWU2TThbM0xA"),-3))]=w,wt(w,"cLSHPIBN");var h=u;t.wmxtd99bAm[6995]&&(N(t.wmxtd99bAm[6995]),t.wmxtd99bAm[6995]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6995]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6995==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493:58)w@5)l@5:5:8;;:5;)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3<58)w@5)l@4568553767)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJM"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;345;)w@5)l@79:3;46357)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348343:)w@5)l@;:8<955976)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJN"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3943)w@5)l@96463567<3)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJT"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3<36)w@5)l@4349485374)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6995]=w,V([{function:function(t,d){var i=M("div");_(i,"class","k872ABr9 uzq982mp"),pt(t,"beforeEnd",i)}},{function:function(d,i){function u(){var d=t.wmxtdd53d4&&t.wmxtdd53d4.w&&t.wmxtdd53d4.w[6999],i=t.wmxtdd53d4&&t.wmxtdd53d4.a&&t.wmxtdd53d4.a[6995],w=t.wmxtdd53d4&&t.wmxtdd53d4.a&&t.wmxtdd53d4.a[7e3];i&&w&&d&&(t.wmxtdLoc!==location.pathname&&(t.wmxtdLoc=location.pathname,!1===t.wmxtdStat?(t.wmxtdStat=!t.wmxtdStat,j(i,"display","none",""),j(w,"display","initial",""),K(d,w)):(t.wmxtdStat=!t.wmxtdStat,j(i,"display",null),j(w,"display",null),K(d,i)),n(d,u)),t[m("cmVxdWVzdEFuaW1hdGlvbkZyYW1l")](u))}var n=function(d,i){var u=setInterval(function(){var n=et("[class^=ThreeColumnsLayout-right-column] > [class^='AdSlot__container'] > :first-child, [class^=TwoColumnsLayout-right] > [class^=RightRail] [class^='AdSlot__container'] > :first-child[id*=mpu]");d&&n&&n.parentElement&&(n.parentElement.insertBefore(d,n),clearInterval(u),t[m("cmVxdWVzdEFuaW1hdGlvbkZyYW1l")](i))},100)};t.wmxtdLoc=location.pathname,t.wmxtdStat=!1,t[m("cmVxdWVzdEFuaW1hdGlvbkZyYW1l")](u)}}],w,6995),qt(w,6995,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:353;)w@5)l@5647:55945)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJP"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6995,i,!0)}}},function(){P(6995,i,!1)})}(!0)}else P(6995,!n,!1)}else P(6995,!n,!1);var n=!1;if(!0==!!et("#__next")&&et("[class^=TwoColumnsLayout-hero] nav[class^=Tabs-container]")){var b=u[""+m(Jt(m("V1lNaVlKPHpbM1FrZ0pZcWU2TThbM01pWTZNa2ZLRW9makBA"),-3))],O=!1;if(b){var l=t.wmxtd494Rnd;!function(i){O||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3:39)w@5)l@6;<89498;4)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJJ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!O){O=!0;var u=this;if(u.height<2)return void P(7e3,i,!1);if(l==t.wmxtd494Rnd){var n=b,w=M("div");d[""+m(Jt(m("V1lNaVlKPHpbM1FrZ0pZcWU2TThbM0x8"),-3))]=w,wt(w,"LkqpAugCH");var h=u;t.wmxtd99bAm[7e3]&&(N(t.wmxtd99bAm[7e3]),t.wmxtd99bAm[7e3]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[7e3]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(7e3==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3435)w@5)l@;8:;5577<5)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJN"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493538)w@5)l@4<5494464;)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493;63)w@5)l@7:65:4769:)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJN"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483:64)w@5)l@5;4:<4543;)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJI"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3947)w@5)l@5;699458<<)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3<4:)w@5)l@595944785<)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[7e3]=w,V([{function:function(t,d){var i=M("div");_(i,"class","k872ABr9 uzq982mp"),pt(t,"beforeEnd",i)}}],w,7e3),qt(w,7e3,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493:45)w@5)l@<:<<94<;69)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(7e3,i,!0)}}},function(){P(7e3,i,!1)})}(!0)}else P(7e3,!n,!1)}else P(7e3,!n,!1);var n=!1;if("/"!==location.pathname||-1!==location.pathname.indexOf("/article/")||t.wmxtd246Mobile||-1!==location.pathname.indexOf("/news/picture/"))P(5120,!n,!1);else{var z=i(""+m(Jt(m("TDVReWVxVW9lcVRqT3BReWVLWXdlbUx4XDU8dk9XVGpTbEQ5XXBvfGY2VHdcNWtzZUpUQA=="),-3)),""),q=!1;if(z){var l=t.wmxtd494Rnd;!function(i){q||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3663)w@5)l@4;543537;7)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!q){q=!0;var u=this;if(u.height<2)return void P(5120,i,!1);if(l==t.wmxtd494Rnd){var n=z,w=M("div");d[""+m(Jt(m("V1lNaVlKPHpbM2t5ZVpYQA=="),-3))]=w,wt(w,"liNLStPBQL");var h=u;t.wmxtd99bAm[5120]&&(N(t.wmxtd99bAm[5120]),t.wmxtd99bAm[5120]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[5120]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(5120==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53494558)w@5)l@53<365;:93)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJN"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3957)w@5)l@<737;4447;)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483539)w@5)l@;93<;:8;53)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJE"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493;48)w@5)l@4663:46588)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJP"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:344:)w@5)l@:37;<7853:)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483558)w@5)l@99<<57<:76)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJW"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),dt(n,w),t.wmxtdd53d4.a[5120]=w;var x=M("div");D(x,""+m(Jt(m("U0pVc2dtN2pTRjxuZFtcLg=="),-3))),xt(x.childNodes,function(t,d){dt(w,d)});var x=M("div");D(x,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGR9ajZQbklGZm1uamQ2XTNRR1l8UkpqbFNsRDtPNVVzZ203QA=="),-3))),xt(x.childNodes,function(t,d){it(w,d)}),V([{function:function(t,d){var i=t,u=et(".k872ABr9.kvt45r8h");i&&u&&pt(i,"beforeEnd",u)}},{function:function(d,i){var u=d,n=et("#content .column2.col-4 > .linebreak"),w=et(".pictures-module.module.dark.group, body > footer");u&&n&&w&&"/"===location.pathname&&-1!==location.hostname.indexOf("de")&&g(t,"scroll",function(t){var d=C(n);d.height+d.top>37?u.removeAttribute("style"):d.height+d.top<37&&C(w).top>289?(j(u,"position","fixed"),j(u,"top","37px"),j(u,"display",null)):j(u,"display","none")})}}],w,5120),qt(w,5120,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3745)w@5)l@5<;875<639)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJO"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(5120,i,!0)}}},function(){P(5120,i,!1)})}(!0)}else P(5120,!n,!1)}var n=!1;if(t.wmxtd246Mobile){var Q=i(""+m(Jt(m("XHA8bmhWRC5MS1FvXDZVc2U1N3hlWjxuZ1p7b09xVXlmRjR4XVtnfU9aNHldS1l2XVRAQA=="),-3)),""),H=!1;if(Q){var l=t.wmxtd494Rnd;!function(i){H||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53494559)w@5)l@:47454<936)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJE"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!H){H=!0;var u=this;if(u.height<2)return void P(5528,i,!1);if(l==t.wmxtd494Rnd){var n=Q,w=M("div");d[""+m(Jt(m("V1lNaVlKPHpbMzR5XHBvdl1UQEA="),-3))]=w,wt(w,"TEzptyyG");var h=u;t.wmxtd99bAm[5528]&&(N(t.wmxtd99bAm[5528]),t.wmxtd99bAm[5528]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[5528]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(5528==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:4563)w@5)l@9:76<96;54)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483<48)w@5)l@85548536;9)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3;46)w@5)l@6<68:4::5;)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJL"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348393<)w@5)l@47:384:466)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;385<)w@5)l@5;3:945:83)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53484538)w@5)l@<;<53;539;)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJW"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),dt(n,w),t.wmxtdd53d4.a[5528]=w;var x=M("div");D(x,""+m(Jt(m("U0pVc2dtN2pTRjxuZFtcLg=="),-3))),xt(x.childNodes,function(t,d){dt(w,d)});var x=M("div");D(x,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGR9ajZQbklGZm1ubFNsRDtPNVVzZ203QA=="),-3))),xt(x.childNodes,function(t,d){it(w,d)}),qt(w,5528,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348383:)w@5)l@5;3:<4575<)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJJ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(5528,i,!0)}}},function(){P(5528,i,!1)})}(!0)}else P(5528,!n,!1)}else P(5528,!n,!1);var n=!1;if(!t.wmxtd246Mobile&&location.pathname.indexOf("/news/picture/")>-1){var y=u[""+m(Jt(m("V1lNWGU2RVRkWlEzZ1tNb1k2TWtmS0VvZmpAQA=="),-3))],L=!1;if(y){var l=t.wmxtd494Rnd;!function(i){L||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3:36)w@5)l@49447;873;)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!L){L=!0;var u=this;if(u.height<2)return void P(5771,i,!1);if(l==t.wmxtd494Rnd){var n=y,w=M("div");d[""+m(Jt(m("V1lNaVlKPHpbNEVzXDZVNGZwWEA="),-3))]=w,wt(w,"jcICiekLFw");var h=u;t.wmxtd99bAm[5771]&&(N(t.wmxtd99bAm[5771]),t.wmxtd99bAm[5771]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[5771]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(5771==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483:3<)w@5)l@8<38863<<;)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:434<)w@5)l@599<;7657;)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493<49)w@5)l@;347<5683:)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJL"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:394:)w@5)l@74;:459;99)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483;54)w@5)l@6:7;754<<5)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3<45)w@5)l@4:;83557:<)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJM"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(3*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[5771]=w;var x=M("div");D(x,""+m(Jt(m("U0pVc2dsRW1lSkl9Zn0zbGR9ajZQbklGZm1uamQ2XTNRbWd8UkpqbFNsRDtPNVVzZ203QA=="),-3))),xt(x.childNodes,function(t,d){it(w,d)}),qt(w,5771,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348353;)w@5)l@;;48356;53)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(5771,i,!0)}}},function(){P(5771,i,!1)})}(!0)}else P(5771,!n,!1)}else P(5771,!n,!1);var n=!1;if(t.wmxtd246Mobile||!et(".ArticlePage_container")&&!et("[class^=ArticlePage-article-body]"))P(5122,!n,!1);else{var B=i(""+m(Jt(m("XHA8bmhUQEA="),-3)),""),F=!1;if(B){var l=t.wmxtd494Rnd;!function(i){F||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493;47)w@5)l@9;:49;3;4;)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJE"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!F){F=!0;var u=this;if(u.height<2)return void P(5122,i,!1);if(l==t.wmxtd494Rnd){var n=B,w=M("div");d[""+m(Jt(m("WHBvcWRLVWlYcElzZUk8TWVaSXFdVEBA"),-3))]=w,wt(w,"YoAqGWZW");var h=u;t.wmxtd99bAm[5122]&&(N(t.wmxtd99bAm[5122]),t.wmxtd99bAm[5122]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[5122]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(5122==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:4436)w@5)l@<686:58867)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ\\"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3957)w@5)l@:879547<45)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJQ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3;3<)w@5)l@<79;555:3;)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJO"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3<5<)w@5)l@6;<875<97;)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;4446)w@5)l@6:538:9:48)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3736)w@5)l@;<<3;43;73)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJJ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;4353)w@5)l@84<765<3;6)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3536)w@5)l@549:955349)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493738)w@5)l@:6;8348:97)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ\\"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348454<)w@5)l@484:764:45)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[1*v(5*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)],x=h[1*v(5*i.y/this.offsetHeight)+v(1*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[5122]=w,V([{function:function(t,d){var i=M("div");nt(i,"TrendingStories_container k872ABr9"),j(i,"top","-16px",""),j(i,"position","absolute","");var u=setInterval(function(){var d=et(".RightRail_container > [class*=video-container]:first-child + * > .Sticky_content");d&&(clearInterval(u),pt(d,"afterBegin",t),pt(t,"beforeBegin",i));var n=et("[class^=RightRail-sticky-container] > [class^=StickyContainer] > [class^=AdSlot__container]");n&&(clearInterval(u),pt(n,"beforeBegin",t),pt(t,"afterBegin",i))},100)}}],w,5122),qt(w,5122,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493;36)w@5)l@743:;593:4)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ\\"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(5122,i,!0)}}},function(){P(5122,i,!1)})}(!0)}else P(5122,!n,!1)}var n=!1,I=i(""+m(Jt(m("TmxELkxKVXNnbDh9XXBNeVxwcno="),-3)),""),X=!1;if(I){var l=t.wmxtd494Rnd;!function(i){X||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483947)w@5)l@4483645<33)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJQ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!X){X=!0;var u=this;if(u.height<2)return void P(6240,i,!1);if(l==t.wmxtd494Rnd){var n=I,w=M("div");d[""+m(Jt(m("WDM0RVhvVUpVWFlIWzNVc1xaOHllWm9pUEdId1BXREA="),-3))]=w,wt(w,"mAkCMclbCn");var h=u;t.wmxtd99bAm[6240]&&(N(t.wmxtd99bAm[6240]),t.wmxtd99bAm[6240]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6240]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6240==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:364:)w@5)l@4686455665)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3557)w@5)l@887;577887)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:353;)w@5)l@65;<74:6;8)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJW"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;4558)w@5)l@48634499;4)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJL"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[2*v(1*i.y/this.offsetHeight)+v(2*i.x/this.offsetWidth)],x=h[2*v(1*i.y/this.offsetHeight)+v(2*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6240]=w,qt(w,6240,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483953)w@5)l@65;7:58599)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6240,i,!0)}}},function(){P(6240,i,!1)})}(!0)}else P(6240,!n,!1);var n=!1,T=i(""+m(Jt(m("TmxELkxKVXNnbDh9XXBNeVxwcns="),-3)),""),U=!1;if(T){var l=t.wmxtd494Rnd;!function(i){U||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:4338)w@5)l@:85696665;)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!U){U=!0;var u=this;if(u.height<2)return void P(6242,i,!1);if(l==t.wmxtd494Rnd){var n=T,w=M("div");d[""+m(Jt(m("WDM0RVhvVUpVWFlIWzNVc1xaOHllWm9pUEdMd1BXREA="),-3))]=w,wt(w,"KJlmFcUV");var h=u
+;t.wmxtd99bAm[6242]&&(N(t.wmxtd99bAm[6242]),t.wmxtd99bAm[6242]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6242]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6242==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348434;)w@5)l@:<;<<4364:)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3;3:)w@5)l@46<6644683)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJW"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3454)w@5)l@;4::75756:)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:444;)w@5)l@;;;<553:::)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493749)w@5)l@58;<6;;645)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ\\"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483864)w@5)l@557654<988)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJV"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[3*v(1*i.y/this.offsetHeight)+v(3*i.x/this.offsetWidth)],x=h[3*v(1*i.y/this.offsetHeight)+v(3*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6242]=w,qt(w,6242,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483;39)w@5)l@574;3576:8)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJH"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6242,i,!0)}}},function(){P(6242,i,!1)})}(!0)}else P(6242,!n,!1);var n=!1,A=i(""+m(Jt(m("TmxELkxKVXNnbDh9XXBNeVxwcnw="),-3)),""),E=!1;if(A){var l=t.wmxtd494Rnd;!function(i){E||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483939)w@5)l@:9457<<8<4)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJW"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!E){E=!0;var u=this;if(u.height<2)return void P(6243,i,!1);if(l==t.wmxtd494Rnd){var n=A,w=M("div");d[""+m(Jt(m("WDM0RVhvVUpVWFlIWzNVc1xaOHllWm9pUEdQd1BXREA="),-3))]=w,wt(w,"AYiNXkLvy");var h=u;t.wmxtd99bAm[6243]&&(N(t.wmxtd99bAm[6243]),t.wmxtd99bAm[6243]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6243]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6243==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53484345)w@5)l@:95:544993)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJT"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;385;)w@5)l@4499:4<<<3)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJW"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483:39)w@5)l@7;5:;4658:)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:4343)w@5)l@9383464<<9)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[2*v(1*i.y/this.offsetHeight)+v(2*i.x/this.offsetWidth)],x=h[2*v(1*i.y/this.offsetHeight)+v(2*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6243]=w,qt(w,6243,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3<4;)w@5)l@9<9;863384)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ]"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6243,i,!0)}}},function(){P(6243,i,!1)})}(!0)}else P(6243,!n,!1);var n=!1,G=i(""+m(Jt(m("TmxELkxKVXNnbDh9XXBNeVxwcn0="),-3)),""),Y=!1;if(G){var l=t.wmxtd494Rnd;!function(i){Y||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53494334)w@5)l@;:<5963;;;)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!Y){Y=!0;var u=this;if(u.height<2)return void P(6244,i,!1);if(l==t.wmxtd494Rnd){var n=G,w=M("div");d[""+m(Jt(m("WDM0RVhvVUpVWFlIWzNVc1xaOHllWm9pUEdUd1BXREA="),-3))]=w,wt(w,"qOCxganAd");var h=u;t.wmxtd99bAm[6244]&&(N(t.wmxtd99bAm[6244]),t.wmxtd99bAm[6244]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6244]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6244==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;393:)w@5)l@:<64<436;5)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJE"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:384<)w@5)l@4<<;36;879)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ\\"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3843)w@5)l@4::66968<;)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJE"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483853)w@5)l@47733<7797)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJI"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3:38)w@5)l@839:;63358)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJH"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5349444<)w@5)l@876:648779)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[3*v(1*i.y/this.offsetHeight)+v(3*i.x/this.offsetWidth)],x=h[3*v(1*i.y/this.offsetHeight)+v(3*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6244]=w,qt(w,6244,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;445:)w@5)l@5;3;85<;43)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJL"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6244,i,!0)}}},function(){P(6244,i,!1)})}(!0)}else P(6244,!n,!1);var n=!1,$=i(""+m(Jt(m("TmxELkxKVXNnbDh9XXBNeVxwcjM="),-3)),""),tt=!1;if($){var l=t.wmxtd494Rnd;!function(i){tt||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5349374;)w@5)l@8497<6589<)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJP"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!tt){tt=!0;var u=this;if(u.height<2)return void P(6245,i,!1);if(l==t.wmxtd494Rnd){var n=$,w=M("div");d[""+m(Jt(m("WDM0RVhvVUpVWFlIWzNVc1xaOHllWm9pUEdYd1BXREA="),-3))]=w,wt(w,"gUoAWEG");var h=u;t.wmxtd99bAm[6245]&&(N(t.wmxtd99bAm[6245]),t.wmxtd99bAm[6245]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6245]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6245==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53484336)w@5)l@<6:9749644)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJJ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483<56)w@5)l@6736559:4;)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJM"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3854)w@5)l@:;8954454:)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJH"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;4363)w@5)l@636395696:)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJP"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[2*v(1*i.y/this.offsetHeight)+v(2*i.x/this.offsetWidth)],x=h[2*v(1*i.y/this.offsetHeight)+v(2*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6245]=w,qt(w,6245,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;443:)w@5)l@:597964565)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6245,i,!0)}}},function(){P(6245,i,!1)})}(!0)}else P(6245,!n,!1);var n=!1,ut=i(""+m(Jt(m("TmxELkxKVXNnbDh9XXBNeVxwcjQ="),-3)),""),ot=!1;if(ut){var l=t.wmxtd494Rnd;!function(i){ot||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;434:)w@5)l@785485:4<9)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJM"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!ot){ot=!0;var u=this;if(u.height<2)return void P(6246,i,!1);if(l==t.wmxtd494Rnd){var n=ut,w=M("div");d[""+m(Jt(m("WDM0RVhvVUpVWFlIWzNVc1xaOHllWm9pUEdcd1BXREA="),-3))]=w,wt(w,"MXRqrXFc");var h=u;t.wmxtd99bAm[6246]&&(N(t.wmxtd99bAm[6246]),t.wmxtd99bAm[6246]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6246]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6246==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53484555)w@5)l@69;;458;6;)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348375:)w@5)l@58:<396655)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483<5<)w@5)l@7599869568)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3639)w@5)l@47:<3;9;98)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJM"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3556)w@5)l@677565<3;5)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJL"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348394:)w@5)l@534:7463:8)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJF"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[3*v(1*i.y/this.offsetHeight)+v(3*i.x/this.offsetWidth)],x=h[3*v(1*i.y/this.offsetHeight)+v(3*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6246]=w,qt(w,6246,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;453:)w@5)l@449;7634;4)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ["+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6246,i,!0)}}},function(){P(6246,i,!1)})}(!0)}else P(6246,!n,!1);var n=!1,vt=i(""+m(Jt(m("TmxELkxKVXNnbDh9XXBNeVxwcjU="),-3)),""),lt=!1;if(vt){var l=t.wmxtd494Rnd;!function(i){lt||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3<36)w@5)l@<75;:54798)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJW"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!lt){lt=!0;var u=this;if(u.height<2)return void P(6247,i,!1);if(l==t.wmxtd494Rnd){var n=vt,w=M("div");d[""+m(Jt(m("WDM0RVhvVUpVWFlIWzNVc1xaOHllWm9pUEdmd1BXREA="),-3))]=w,wt(w,"SEXzcHZ");var h=u;t.wmxtd99bAm[6247]&&(N(t.wmxtd99bAm[6247]),t.wmxtd99bAm[6247]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6247]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6247==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5349445:)w@5)l@;96836536<)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJI"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53494463)w@5)l@:<4:<;;634)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJV"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3435)w@5)l@<<53<477<9)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJL"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3;45)w@5)l@95;9955359)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJG"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[2*v(1*i.y/this.offsetHeight)+v(2*i.x/this.offsetWidth)],x=h[2*v(1*i.y/this.offsetHeight)+v(2*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6247]=w,qt(w,6247,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483<63)w@5)l@<;47648556)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJH"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6247,i,!0)}}},function(){P(6247,i,!1)})}(!0)}else P(6247,!n,!1);var n=!1,rt=i(""+m(Jt(m("TmxELkxKVXNnbDh9XXBNeVxwcjY="),-3)),""),st=!1;if(rt){var l=t.wmxtd494Rnd;!function(i){st||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3;37)w@5)l@9474<49:83)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!st){st=!0;var u=this;if(u.height<2)return void P(6248,i,!1);if(l==t.wmxtd494Rnd){var n=rt,w=M("div");d[""+m(Jt(m("WDM0RVhvVUpVWFlIWzNVc1xaOHllWm9pUEdqd1BXREA="),-3))]=w,wt(w,"IIcqhj");var h=u;t.wmxtd99bAm[6248]&&(N(t.wmxtd99bAm[6248]),t.wmxtd99bAm[6248]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6248]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6248==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:435;)w@5)l@:58765:4:4)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJJ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3449)w@5)l@;83<459887)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ]"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493<45)w@5)l@;;98;4;4<3)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJH"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53494335)w@5)l@8763;59<39)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJW"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53494458)w@5)l@4746:;9657)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53494357)w@5)l@86479:::<5)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[3*v(1*i.y/this.offsetHeight)+v(3*i.x/this.offsetWidth)],x=h[3*v(1*i.y/this.offsetHeight)+v(3*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6248]=w,qt(w,6248,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3836)w@5)l@;98735;647)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJX"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6248,i,!0)}}},function(){P(6248,i,!1)})}(!0)}else P(6248,!n,!1);var n=!1,ft=i(""+m(Jt(m("TmxELkxKVXNnbDh9XXBNeVxwcjc="),-3)),""),ct=!1;if(ft){var l=t.wmxtd494Rnd;!function(i){ct||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53484559)w@5)l@69895597<<)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJU"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!ct){ct=!0;var u=this;if(u.height<2)return void P(6249,i,!1);if(l==t.wmxtd494Rnd){var n=ft,w=M("div");d[""+m(Jt(m("WDM0RVhvVUpVWFlIWzNVc1xaOHllWm9pUEdud1BXREA="),-3))]=w,wt(w,"OKnkNgAp");var h=u;t.wmxtd99bAm[6249]&&(N(t.wmxtd99bAm[6249]),t.wmxtd99bAm[6249]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6249]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6249==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483655)w@5)l@7;:5;<:36;)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3444)w@5)l@<9:975737:)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJU"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3:48)w@5)l@87::945:5:)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJQ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3:3:)w@5)l@7564;47<83)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJO"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[2*v(1*i.y/this.offsetHeight)+v(2*i.x/this.offsetWidth)],x=h[2*v(1*i.y/this.offsetHeight)+v(2*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6249]=w,qt(w,6249,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3435)w@5)l@87:83466:3)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ\\"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6249,i,!0)}}},function(){P(6249,i,!1)})}(!0)}else P(6249,!n,!1);var n=!1,mt=i(""+m(Jt(m("TmxELkxKVXNnbDh9XXBNeVxwcjg="),-3)),""),gt=!1;if(mt){var l=t.wmxtd494Rnd;!function(i){gt||ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483:58)w@5)l@9<9935:735)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJT"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),function(){if(!gt){gt=!0;var u=this;if(u.height<2)return void P(6250,i,!1);if(l==t.wmxtd494Rnd){var n=mt,w=M("div");d[""+m(Jt(m("WDM0RVhvVUpVWFlIWzNVc1xaOHllWm9pUFdEd1BXREA="),-3))]=w,wt(w,"sgaBIW");var h=u;t.wmxtd99bAm[6250]&&(N(t.wmxtd99bAm[6250]),t.wmxtd99bAm[6250]=!1),o(h,function(d,i){if(!t.wmxtd4c6Pc[6250]){d.preventDefault(),d.stopPropagation();for(var i=e(d,this),u=0;u<t.wmxtd94eOc.length;u++){var n=t.wmxtd94eOc[u];if(6250==n.p&&i.x>=n.x&&i.x<n.x+n.w&&i.y>=n.y&&i.y<n.y+n.h){if(n.u){var w=n.t.length>0?n.t:"_self";w=0==d.button&&d.ctrlKey?"_blank":w,at(t,n.u,n.u,w,!0)}return}}var o=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53484345)w@5)l@8:6636354;)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJW"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3444)w@5)l@6<3984<6:<)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJR"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5349435;)w@5)l@7365948<<7)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJP"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],h=[Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;353;)w@5)l@<48664;397)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJT"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5349395<)w@5)l@6:;;4448;3)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:393:)w@5)l@;79844<9<9)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJG"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)],l=o[3*v(1*i.y/this.offsetHeight)+v(3*i.x/this.offsetWidth)],x=h[3*v(1*i.y/this.offsetHeight)+v(3*i.x/this.offsetWidth)];at(t,l,x,0==d.button&&d.ctrlKey?"_blank":"_self")}}),K(w,u),K(n,w),t.wmxtdd53d4.a[6250]=w,qt(w,6250,Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3558)w@5)l@47;46447;3)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),P(6250,i,!0)}}},function(){P(6250,i,!1)})}(!0)}else P(6250,!n,!1);(t.wmxtdautorecov||t.wmxtda9eFlags.autoRecov)&&zt(),Z()}function Z(){xt(ot(".RightRail_sticky-container"),function(t,d){d.className.indexOf(" wmxtdHid")<0&&(d.className+=" wmxtdHid")})}function P(d,i,u){if(u||(t.wmxtdd53d4.f[d]=!0),i&&++t.wmxtd4ebPl==t.wmxtdc4bPtl){if(N(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@5348385<)w@5)l@8;8784848<)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJE"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3)),t.wmxtdd53d4&&t.wmxtdd53d4.a)for(var n=Object.keys(t.wmxtdd53d4.a),w=0;w<n.length;w++)!function(t,d){nt(t,"slide-image-enclosure ");var i=t.querySelector("img");i&&(nt(i,"slick-loading"),_(i,"alt","x"))}(t.wmxtdd53d4.a[n[w]],n[w]);Ft=!1}}function N(t){var d=M("iframe");K(Tt,d),d.src=t,d.style.width="2px",d.style.height="2px",setTimeout(function(){d.style.display="none"},5e3)}function L(d,i){if(t.wmxtd97eTrack)return!1;t.wmxtd97eTrack=!0;var u=function(){gt(this)||R(t)};if(d||i){var n=function(){d?i?lt(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493;47)w@5)l@787;9:6:63)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJU"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),u,u):t.wmxtdnpm||t.wmxtda9eFlags.npm?Ft=!1:lt(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3:44)w@5)l@5:;434:9:5)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJP"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),u,u):i?wmxtd246Mobile?lt(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483945)w@5)l@788<493687)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJK"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),u,u):t.wmxtda9eFlags.crt&&t.wmxtdsc.crt?lt(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:3446)w@5)l@738<<54394)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ]"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),u,u):lt(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;435<)w@5)l@57644434;7)z@653)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJO"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),u,u):Ft=!1};!function(){n()}()}else Ft=!1}function B(d){var i=function(){};"1"==d&&ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3:3:)w@5)l@9759<5694;)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJS"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),i,i),"2"==d&&ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483;3:)w@5)l@8:65644;68)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJQ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),i,i),"3"==d&&ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53483463)w@5)l@869;34678:)z@633)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJO"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),i,i),"4"==d&&ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:4463)w@5)l@<7<834;;39)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJQ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),i,i)}function F(){t.wmxtdd53dd3++,t.wmxtdd53dd3==t.wmxtdd53d1.length&&t.wmxtdd53d2.length==t.wmxtdd53dd3&&(t.wmxtdd53dtc.ab=!0),t.wmxtdd53dd3==t.wmxtdd53d1.length&&(t.wmxtdd53dtc.abd=!0),I()}function I(){var d="",i=t.wmxtda9eFlags.nw1c3lst;try{d=document.cookie.replace(/(?:(?:^|.*;\s*)xdefccpm\s*\=\s*([^;]*).*$)|^.*$/,"$1")}catch(t){}if(""!=d&&(i=!1,t.wmxtdd53dtc.pmd=!0,"yes"===d&&(t.wmxtdd53dtc.pm=!0)),t.wmxtdd53dtc.abd&&t.wmxtdd53dtc.pmd&&t.wmxtdd53dtc.gnd){try{i&&(t.wmxtdd53dtc.pm?document.cookie="xdefccpm=yes;max-age=3600;path=/":document.cookie="xdefccpm=no;max-age=3600;path=/")}catch(t){}L(t.wmxtdd53dtc.pm,t.wmxtdd53dtc.gn||t.wmxtdd53dtc.ab)}}function X(){var t=0,i=W(function(){/loaded|complete/.test(d.readyState)?(J(i),T()):++t>40&&J(i)},500)}function T(){if(!t.wmxtd1d1Detect){t.wmxtd1d1Detect=!0,t.wmxtdd53dtc.ab=!1,t.wmxtdd53dtc.abd=!1,t.wmxtdd53dtc.gn=!1,t.wmxtdd53dtc.gnd=!1;var d=p();t.wmxtd246Mobile=d.match(/iPad/i)||d.match(/iPhone/i)||d.match(/iPod/i)||d.match(/Android/i),t.wmxtdd53d1=[],t.wmxtdd53do1=[],t.wmxtdd53do2=[],t.wmxtdd53do3=[],t.wmxtdd53d2=[],t.wmxtdd53dd3=0;try{0!=t.wmxtdd53dd3&&(t.wmxtdd53dd3=0)}catch(t){return void B(4)}t.wmxtdd53d4={},t.wmxtdd53d4.a={},t.wmxtdd53d4.w={},t.wmxtdd53d4.f={},t.wmxtdd53d4.cb=!1,t.wmxtdd53d5={},t.wmxtdd53d5.e=0,t.wmxtdd53d5.s=0,t.wmxtd73eij=!1;var i=(new Date).getTime(),u=function(){if(gt(this))"function"==typeof ZWSYHTrkFailed&&ZWSYHTrkFailed(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:364;)w@5)l@;83<84:6;:)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJL"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),(new Date).getTime()-i);else if(t.wmxtda9eFlags.bl4e3Up&&St(this)){var d=new XMLHttpRequest;d[m("YWRmX2lnbm9yZQ==")]="DU",d.responseType="text",d.open("GET",Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534;3948)w@5)l@<4:8497333)z@:93)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJZ"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),!0),d.setRequestHeader("Content-Type","text/plain"),d.onreadystatechange=function(){if(4===d.readyState&&200===d.status){var i=m(Jt(d.response,-3)),u=JSON.parse(i);JSON.stringify(u);t.wmxtdd53do2=u.css,t.wmxtdd53do3=u.generic,t.wmxtdd53do1=u.url,U()}},d.send()}else St(this),U()};t.wmxtd246Mobile?ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@53493449)w@5)l@<9;5666<:3)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJ]"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),u,u):ht(Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2Bp@35)g@534:364;)w@5)l@;83<84:6;:)z@6;3)ik@)iz@)oo@)so@)vt@)uwq@O\\QQ[PSHJL"+t.wmxtd494Rnd+"){63|43)u@OL\\[SSJJ43IW",-3),u,u)}}function U(){var d=[],i=[];d.push({bc05cs:".AD-POST",bu9e1rl:Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2surprwrrov2Bp@35)g@5348354<)w@5)l@58<645657:)z@978)ik@)iz@)oo@)so@)vt@5)u@\\TIY"+t.wmxtd494Rnd+"1msj",-3)}),i.push({bc05cs:".AD-POST",bu9e1rl:Jt("kwwsv=22v61uhxwhuvphgld1qhw2uhvrxufhv2u2surprwrrov2Bp@35)g@534:4547)w@5)l@<:5;35<93;)z@::4)ik@)iz@)oo@)so@)vt@5)u@VSGM"+t.wmxtd494Rnd+"1msj",-3)}),t.wmxtdd53do3.length>0&&(d=t.wmxtdd53do3);!function(d,i){if(0!=d.length){var u=M("DIV");D(u,"&nbsp;"),K(Tt,u);for(var n=0,w=0;w<d.length;w++){var e=[],o=[],h=0,v=function(){h++,h===e.length&&((!t.wmxtda9eFlags.gnrcfll&&o.length>0||o.length===h)&&(t.wmxtdd53dtc.gn=!0),n++),n==d.length&&(ut(u),t.wmxtdd53dtc.gnd=!0,I())},l=st(Tt,d[w].bc05cs);e.push(ft(u,l.b,l.p,v,o));var x=d[w].bu9e1rl,r=i[w].bu9e1rl;e.push(function(){ht(x,ct(o,v,r),ct(o,v,r))});for(var a=0;a<e.length;a++)e[a]()}}}(d,i);for(var u=0;u<t.wmxtdd53d1.length;u++)t.wmxtdd53d1[u]();0==t.wmxtdd53d1.length&&(t.wmxtdd53dtc.abd=!0,I()),(t.wmxtdfp||t.wmxtda9eFlags.fp)&&L(!0,!1)}function A(){if(t.wmxtd494Rnd=t.wmxtd494Rnd||E(),t.wmxtdc00sdl&&!t.wmxtdc00sdln&&(B(4),t.wmxtdc00sdln=!0),!t.wmxtdc00sdl){t.wmxtdc00sdl=!0,t.wmxtdc00sdln=!0,t.wmxtdd53dgenat="17022816",t.wmxtdd53dsthash="50cff",t.wmxtd494Rnd=t.wmxtd494Rnd||E(),t.wmxtdeeaforceimp=!1,t.wmxtda9eFlags.newSafDet=!!t.wmxtda9eFlags.newSafDet&&t.wmxtda9eFlags.newSafDet,t.wmxtda9eFlags.gnrcfll=void 0===t.wmxtda9eFlags.gnrcfll||t.wmxtda9eFlags.gnrcfll,t.wmxtda9eFlags.forceImp=!!t.wmxtda9eFlags.forceImp&&t.wmxtda9eFlags.forceImp,t.wmxtda9eFlags.autoRecov=!!t.wmxtda9eFlags.autoRecov&&t.wmxtda9eFlags.autoRecov,t.wmxtda9eFlags.fp=!!t.wmxtda9eFlags.fp&&t.wmxtda9eFlags.fp,t.wmxtda9eFlags.npm=!!t.wmxtda9eFlags.npm&&t.wmxtda9eFlags.npm,t.wmxtda9eFlags.nw1c3lst=!!t.wmxtda9eFlags.nw1c3lst&&t.wmxtda9eFlags.nw1c3lst,t.wmxtda9eFlags.bl4e3Up=!!t.wmxtda9eFlags.bl4e3Up&&t.wmxtda9eFlags.bl4e3Up;var d=!1,i=W(function(){if(d=!0,null!=(Tt=et("body"))){if(t.wmxtda9eFlags&&t.wmxtda9eFlags.crt)try{t.wmxtdsc={},t.wmxtdsc.tsm={},ht("https://static.criteo.net/images/pixel.gif?ch=1",function(){t.wmxtdsc.crt=!0},function(){t.wmxtdsc.crt=!1}),g(t,"message",function(d){var i="pass",u="back",n="-ad";try{d.data.indexOf(i+u+n+"-160x600")>-1&&(t.wmxtdsc.skypb=!0),d.data.indexOf(i+u+n+"-728x90")>-1&&(t.wmxtdsc.lbpb=!0),d.data.indexOf(i+u+n+"-300x250-2")>-1?t.wmxtdsc.mr2pb=!0:d.data.indexOf(i+u+n+"-300x250-3")>-1?t.wmxtdsc.mr3pb=!0:d.data.indexOf(i+u+n+"-300x250")>-1&&(t.wmxtdsc.mrpb=!0),d.data.indexOf(i+u+n+"-800x250-2")>-1?t.wmxtdsc.bbbtfpb=!0:d.data.indexOf(i+u+n+"-800x250-3")>-1?t.wmxtdsc.bbbtf2pb=!0:d.data.indexOf(i+u+n+"-800x250")>-1&&(t.wmxtdsc.ftpb=!0),d.data.indexOf(i+u+n+"-800x150")>-1&&(t.wmxtdsc.bbpb=!0),t.wmxtdsc.tsm[d.data]=!0}catch(t){}},!1);var u="Criteo";if(t["adslotFilledBy"+u]=function(d,i){t.wmxtdsc[d]=i},!window.Criteo||"function"!=typeof Criteo.DisplayAcceptableAdIfAdblocked&&!window.wmxtdCrt){var n=M("script");n.src="https://static.criteo.net/js/ld/publishertag.js",K(Tt,n),n=M("script");var w="window";n.innerHTML=w+"."+u+" = "+w+"."+u+" || {}; "+w+"."+u+".events = "+w+"."+u+".events || [];",K(Tt,n)}}catch(t){}if(t.wmxtdf3aBody)return;t.wmxtdf3aBody=!0,J(i);var n=M("style");n.type="text/css",K(Xt,n),X()}},10),u=W(function(){J(u),d||B(4)},100)}}function E(){return Jt(G(),3)}function G(){for(var t="D79EC621B3F4850",d=s(4,1+v(4*a())),i="";i.length<d&&t.length>0;)i+=l(t,v(a()*t.length));return i}function M(t){return d.createElement(t)}function D(t,d){t.innerHTML=d}function K(t,d){t.appendChild(d)}function _(t,d,i){t[m("c2V0QXR0cmlidXRl")](d,i)}function j(t,d,i,u){t[m("c3R5bGU=")][m("c2V0UHJvcGVydHk=")](d,i,u||"")}function Y(t){return!!t[m("Z2V0Qm91bmRpbmdDbGllbnRSZWN0")]}function C(t){return t[m("Z2V0Qm91bmRpbmdDbGllbnRSZWN0")]()}function $(d){return t[m("Z2V0Q29tcHV0ZWRTdHlsZQ==")](d)}function tt(t,d){return $(t)[m("Z2V0UHJvcGVydHlWYWx1ZQ==")](d)}function dt(t,d){t&&t.parentElement&&t.parentElement.insertBefore(d,t)}function it(t,d){t&&t.parentElement&&t.parentElement.insertBefore(d,t.nextSibling)}function ut(t){t&&t.parentElement&&t.parentElement.removeChild(t)}function nt(t,d){t.className=d}function wt(t,d){t.id=d}function et(t){return d.querySelector(t)}function ot(t){return d.querySelectorAll(t)}function ht(t,d,i){var u=M("IMG");return window.wmxtda9eFlags.imc76lt&&(u.alt=""),u[m("YWRmX2lnbm9yZQ==")]=!0,u.onload=d,u.onerror=i,u.referrerPolicy="unsafe-url",u.src=t,u}function vt(t,d,i,u){var n=M("IMG");return window.wmxtda9eFlags.imc76lt&&(n.alt=""),n[m("YWRmX2lnbm9yZQ==")]=!0,K(u,n),n.onload=d,n.onerror=i,n.referrerPolicy="unsafe-url",n.src=t,n}function lt(t,d,i){var u=M("IMG");u[m("YWRmX2lnbm9yZQ==")]=!0,u.onload=d,u.onerror=i,u.referrerPolicy="unsafe-url",u.src=t}function xt(t,d){if(t&&t.length)for(var i=0;i<t.length;i++)d(i,t[i])}function rt(t){try{return t.self!==t.top}catch(t){return!0}}function at(t,d,i,u,n){if(rt(t))return void t.open(d);var w=!0;try{t.addEventListener||(w=!1)}catch(t){w=!1}if("_blank"===u&&w)if(n)t.open(d,u);else{var e=G();t.open(i+"#"+e),g(t,"message",function(i){if(null!==i.data&&"object"==typeof i.data&&i.data.tabId===e&&"popupBlocked"===i.data.message){var u=i.source;setTimeout(function(){if(u&&u.closed){if(/Firefox/.test(p()))return;t.location.assign(d)}},500)}},!1)}else t.location.assign(d)}function st(t,d){var i,u;i=u=M("DIV");for(var n=d.split(" > "),w=0;w<n.length;w++)if("#"==n[w].substr(0,1)?wt(u,n[w].substr(1)):nt(u,n[w].substr(1)),w<n.length-1){var e=M("DIV");K(u,e),u=e}return D(u,"&nbsp;"),K(t,i),{p:i,b:u}}function ft(t,d,i,u,n){return function(){setTimeout(function(){kt(t,d)&&n.push(d),ut(i),u()},500)}}function ct(t,d,i){return function(u){gt(this)?ht(i,mt(t,d),mt(t,d)):d()}}function mt(t,d){return function(i){gt(this)?(t.push(this),d()):d()}}function pt(t,d,i){if(t&&d&&i)if(t.insertAdjacentElement)t.insertAdjacentElement(d,i);else{var u=t.children.length;switch(d.toLowerCase()){case"beforebegin":dt(t,i);break;case"beforeend":u>0?it(t.lastChild,i):K(t,i);break;case"afterbegin":u>0?dt(t.firstChild,i):K(t,i);break;case"afterend":it(t,i)}}}function gt(t){return t.height<2}function St(t){return 3==t.height}function kt(t,d){return 0==d.offsetHeight&&0==d.offsetWidth&&(0!=t.offsetHeight||0!=t.offsetWidth)}function Jt(t,d){for(var i="",u=0;u<t.length;u++)i+=c(t.charCodeAt(u)+d);return i}function Wt(t,d,i){return t.classList.add("wmxtdHid"),""===d?"":"."===d[0]?(t.classList.remove(d.slice(1)),t.classList.add(i),"."+i):(t.id=i,"#"+t.id.trim())}function Rt(t){for(var d="",i="CBADEFGHIJKLMNOPQRSTUVWXYZcbadefghijklmnopqrstuvwxyz",u=0;u<t;u++)d+=l(i,v(a()*i.length));return d}function bt(d,i,u,n){var w=d.classList.item(0)?"."+d.classList.item(0):"",e=Wt(d,w,Rt(6)),o=d.id.trim()?"#"+d.id.trim():"",h=Wt(d,o,Rt(6)),v="",l="";if(t[O("fmdsqfEtqqf",-12)])for(var x=t[O("fmdsqfEtqqf",-12)],r=x,a=0;a<x.cssRules.length;a++)if(l=x.cssRules[a].cssText,""!==w&&l.indexOf(w)>-1?v=l.replace(w,e):""!==o&&l.indexOf(o)>-1&&(v=l.replace(o,h)),""!==v){r.deleteRule(a--);r.insertRule(v,x.cssRules.length),v=""}d.classList.remove("wmxtdHid"),u&&0===d.scrollHeight&&0===d.scrollWidth&&(n[u]&&n[u].hidden>3?n[u].ignore=!0:n[u]?n[u].hidden++:n[u]={hidden:1});for(var s=0;s<i.length;s++)d.parentNode===i[s]&&bt(i[s],i,void 0,void 0)}function Ot(t,d){return!d[t]||!d[t].ignore}function zt(){var d,i,u,n=[],w=0,e=[];t.wmxtda9eFlags.mutationRecord=e;W(function(){d=Object.keys(t.wmxtdd53d4.a);for(var o=0;o<d.length;o++)n[o]=d[o];u=Object.values(t.wmxtdd53d4.w);for(var h=0;h<n.length;h++){var v=n[h];i=t.wmxtdd53d4.a[v].firstChild?t.wmxtdd53d4.a[v].firstChild:t.wmxtdd53d4.a[v],
+0===i.scrollHeight&&0===i.scrollWidth?Ot(v,e)&&("IMG"===i.nodeName&&(i=i.parentNode),bt(i,u,v,e)):e[v]&&(e[v]={hidden:0})}w++},500)}function qt(i,u,n){if(t.wmxtd166Av[u]||(t.wmxtd166Av[u]=0),t.wmxtdb9bAw[u]||(t.wmxtdb9bAw[u]=0),!(t.wmxtd166Av[u]>16||t.wmxtd166Av[u]>0&&!t.wmxtdfdfEv[u])){var w=i.getBoundingClientRect();if(void 0===i.width)var e=i.offsetHeight,o=i.offsetWidth;else var e=i.height,o=i.width;var h=w.left+o,v=w.top+e,l=d.documentElement,x=0,r=0;if(t.innerWidth&&t.innerHeight?(x=t.innerHeight,r=t.innerWidth):!l||isNaN(l.clientHeight)||isNaN(l.clientWidth)||(x=l.clientHeight,r=l.clientWidth),e>0&&o>0&&0<=v&&v<=x&&0<=h&&h<=r&&"visible"==d.visibilityState&&++t.wmxtdb9bAw[u]>=20){t.wmxtdb9bAw[u]=0;var a=function(){t.wmxtdd65Rqr[u]=!0;var d=function(){t.wmxtd242Rqq.length>0?t.wmxtd242Rqq.shift():t.wmxtdd65Rqr[u]=!1};ht(n,d,d),t.wmxtd166Av[u]++};t.wmxtdd65Rqr[u]?t.wmxtd242Rqq.push(a):t.wmxtd242Rqq.length>0?(t.wmxtd242Rqq.shift(),t.wmxtd242Rqq.push(a)):a()}t.wmxtd166Avt[u]=t.setTimeout(function(){qt(i,u,n)},50)}}function Qt(d,i,u){function n(t){for(var d="",i=0;i<t.length;i++)""!=d&&(d+=","),d+='"'+t[i]+'"';return d}var w=new XMLHttpRequest;w[m("YWRmX2lnbm9yZQ==")]="PM",w.responseType="text",w.open("POST",u,!0),w.setRequestHeader("Content-Type","text/plain"),w.onreadystatechange=function(){if(4===w.readyState){if(200===w.status){JSON.parse(w.responseText).privateMode&&(t.wmxtdnl=!0,t.wmxtdd53dtc.pm=!0)}else t.wmxtdnl=!1;t.wmxtdd53dtc.pmd=!0,I()}};var e="Requests";w.send('{"failed'+e+'":['+n(d)+'],"successful'+e+'":['+n(i)+"]}")}function Vt(t,d){for(var i=0;i<d.length;i++)if(d[i]===t)return i;return-1}try{var Ht=2147483648,yt=1103515245,Zt=12345,Pt=function(){function t(d,i){var u,n=[],w=typeof d;if(i&&"object"==w)for(u in d)try{n.push(t(d[u],i-1))}catch(t){}return n.length?n:"string"==w?d:d+"\0"}var d="unknown";try{d=t(navigator,void 0).toString()}catch(t){}return function(t){for(var d=0,i=0;i<t.length;i++)d+=t.charCodeAt(i);return d}(t(window.screen,1).toString()+d)+100*(new Date).getMilliseconds()}(),Nt=0,Lt=[],Bt={};g(t,"message",function(d){if(null!==d.data&&"object"==typeof d.data)try{var i=d.data,u=document.createElement("a");if(u.href=d.origin,"null"===d.origin||window.location.hostname!=u.hostname&&"s3.reutersmedia.net"!=u.hostname)return;if("cc"==i.c)xt(ot(i.d+" > *"),function(t,d){ut(d)});else if("cs"==i.c)if(t[O("fmdsqfEtqqf",-12)])for(var n=t[O("fmdsqfEtqqf",-12)],w=i.d.replace(new RegExp(m("fVxzK30="),"g"),function(t){return"}}"}),e=w.replace(new RegExp(m("fVtefV0="),"g"),function(t){return t[0]+"rll123rnd"+t[1]}).split("rll123rnd"),o=0;o<e.length;o++)n[O("uzeqdfDgxq",-12)](e[o],n.cssRules.length);else{var n=M("style");n.type="text/css",D(n,i.d),K(Xt,n)}else if("am"==i.c)t.wmxtdd53d4.a[i.d.i]?N(i.d.u):t.wmxtd99bAm[i.d.i]=i.d.u;else if("pc"==i.c)t.wmxtd4c6Pc[i.d]=!0;else if("ev"==i.c)t.wmxtdfdfEv[i.d]=!0;else if("oc"==i.c)t.wmxtd94eOc.push(i.d);else if("ac"==i.c){var h=et(i.d.slc),n=M("div");n.innerHTML=i.d.cnt,xt(n.childNodes,function(t,d){h.appendChild(d)})}else if("js"==i.c){var n=M("script");K(Tt,n),D(n,i.d)}else if("if"==i.c){var n=M("iframe");n.src=i.d,n.style.display="none",K(Tt,n)}else if("img"==i.c)var v=function(){this.style.display="none"},o=vt(i.d,v,v,Tt)}catch(t){}},!1),t.ZWSYHdd=F,t.wmxtda9eFlags={},t.wmxtda9eFlags.welect={};var Ft=!0;if(t.wmxtd494Rnd=t.wmxtd494Rnd||E(),!function(){return!("jp.reuters.com"!==t.location.host&&"de.reuters.com"!==t.location.host&&"uk.reuters.com"!==t.location.host&&"www.reuters.com"!==t.location.host||(t.wmxtda9eFlags.video=/video=true/.test(location.search),t.wmxtda9eFlags.nw1c3lst=!0,wmxtda9eFlags.gnrcfll=!1,0)||!function(){return t.wmxtda9eFlags.bl4e3Up=!0,t.ZWSYHTrkFailed=function(d,i){t.location.search.indexOf("msgTest=true")>-1&&console.log("trk "+i)},!0}())}())return;var It;g(t,"message",function(d){var i=d&&d.data;if(i&&"video"===i.from&&"main"===i.to){It=d.source;var u=i.message&&i.message.type;i.message&&i.message.value;switch(u){case"detection":var n=W(function(){t.wmxtdd53dtc&&(t.wmxtdd53dtc.abd||t.wmxtdd53dtc.gnd)&&(J(n),It.postMessage({from:"main",to:"video",message:{type:u,value:t.wmxtdd53dtc.ab||t.wmxtdd53dtc.gn}}))},500)}}});var Xt=et("head"),Tt=null;if(t.wmxtdd53dtc={},t.wmxtdd53dtc.pm=!1,t.wmxtdd53dtc.pmd=!1,/Firefox/.test(p()))if(-1!=p().indexOf("Safari"));else if(t.wmxtda9eFlags.nw1c3lst){var Ut=!1;Object.keys(t).forEach(function(d){t.hasOwnProperty(d)&&d.match(/^wmxtd.{3}NLRun$/g)&&(Ut=t[d])}),Ut?(t.wmxtdnl=!0,t.wmxtdd53dtc.pmd=!0,I()):(t.wmxtdbcdNLRun=!0,function(){function d(t,d){if(d.target){var i=d.target.src||"";if(""!==i&&-1==i.indexOf("chrome-extension://")){var u=new URL(i).hostname||"";""!==u&&Vt(u,t)<0&&t.push(u)}}}var i=new Array,u=new Array,n=d.bind(null,i),w=d.bind(null,u);g(document,"error",n,!0),g(document,"load",w,!0),t.ZWSYHnwld={error:{events:i,listener:n},load:{events:u,listener:w}},function(d){document.createElement=function(){var i=d.apply(this,arguments);return g(i,"error",t.ZWSYHnwld.error.listener,!0),g(i,"load",t.ZWSYHnwld.load.listener,!0),i}}(document.createElement)}(),function(){function d(){!function(){for(var d=0;d<t.ZWSYHnwld.load.events.length;d++){var i=Vt(t.ZWSYHnwld.load.events[d],t.ZWSYHnwld.error.events);i>-1&&t.ZWSYHnwld.error.events.splice(i,1)}}(),t.ZWSYHnwld.error.events.length>0&&t.ZWSYHnwld.load.events.length>0?Qt(t.ZWSYHnwld.error.events,t.ZWSYHnwld.load.events,Jt("22dwrqdwr1gh2uwv2uhvrxufhv2u2Bp@:3)g@534;343;)w@:)l@84449535<8)z@33<)u@][]TT"+t.wmxtd494Rnd,-3)):(t.wmxtdd53dtc.pmd=!0,I())}var i=0,u=0,n=0,w=0,e=0,o=0,h=W(function(){n=t.ZWSYHnwld.error.events.size,w=t.ZWSYHnwld.load.events.size,i=n+w,e<=10?(i-u==0&&e>0&&o++,o>4&&(J(h),d(),o=0)):(J(h),d()),u=i,e++},500)}())}else t.wmxtdnl=!0,t.wmxtdd53dtc.pmd=!0,I();else t.wmxtdd53dtc.pmd=!0,I();try{t.addEventListener?g(t,m("YWRuZGRuZC5pbml0"),A):t.attachEvent&&t.attachEvent(m("YWRuZGRuZC5pbml0"),A),"complete"===d.readyState?A():(-1==p().search("Firefox")&&(d.addEventListener?g(d,m("RE9NQ29udGVudExvYWRlZA=="),A):d.attachEvent&&d.attachEvent("onreadystatechange",function(){"complete"===d.readyState&&A()})),g(t,"load",A))}catch(t){A()}}catch(t){}}(window,document); /* 50cff */
+</script>
+
+</body>
+</html>
+
