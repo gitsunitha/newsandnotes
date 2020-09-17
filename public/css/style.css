@@ -31,5 +31,10 @@
 
 }
 #articles{
-  width:60%
+  width:1-0%
 }
+#titleinput,
+#bodyinput {
+  display: block;
+  width: 100%;
+  background-color:lightgray;

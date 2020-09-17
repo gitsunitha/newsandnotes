@@ -155,19 +155,16 @@ $(document).on("click", ".createNote", function () {
         "<div class='card-body'><h5 class='card-title'>'" +
         data.title +
         "'</h5>";
+      notecard_str =
+        notecard_str +
+        "<input id='titleinput' name='title' >" +
+        "<textarea id='bodyinput' name='body'></textarea>" +
+        "<button data-id='" +
+        data._id +
+        "' id='savenote'>Save Note</button></div></div>";
 
       // The title of the article
       $("#notes").append(notecard_str);
-      // An input to enter a new title
-      $("#notes").append("<input id='titleinput' name='title' >");
-      // A textarea to add a new note body
-      $("#notes").append("<textarea id='bodyinput' name='body'></textarea>");
-      // A button to submit a new note, with the id of the article saved to it
-      $("#notes").append(
-        "<button data-id='" +
-          data._id +
-          "' id='savenote'>Save Note</button></div></div>"
-      );
 
       // If there's a note in the article
       if (data.note) {
@@ -291,6 +288,78 @@ $(document).on("click", ".readArticles", function () {
         "</div>";
 
       $("#articles").append(cardString);
+    }
+  });
+});
+
+//switch to read article that are annonated
+$(document).on("click", ".readAnnonatedArticles", function () {
+  debugger;
+  var elmnt = document.getElementById("annonatedArticlesSection");
+  elmnt.scrollIntoView();
+  $("#annonatedArticles").empty();
+  $("#annonatedNotes").empty();
+  $.getJSON("/annonatedarticles", function (data) {
+    // For each one
+    for (var i = 0; i < data.length; i++) {
+      // Display the apropos information on the page
+      console.log(data[i]);
+      //build the string to append
+      let cardString =
+        "<div class='col-9'>" +
+        "<div id='annonatedArticles'><div class='card mb-2 newsCard' data-id='" +
+        data[i]._id +
+        "'>";
+      if (data[i].image) {
+        cardString =
+          cardString +
+          "<img src='" +
+          data[i].image +
+          "' class='card-img-top' ></img>";
+      }
+      cardString =
+        cardString +
+        "<div class='card-header'><h5>" +
+        data[i].title +
+        "</h5></div>" +
+        "<div class='card-body'>";
+      if (data[i].summary) {
+        cardString = cardString + "<p>" + data[i].summary + "</p>";
+      }
+      if (data[i].timestamp) {
+        cardString =
+          cardString + "<p class='text-muted'>" + data[i].timestamp + "</p>";
+      }
+      cardString =
+        cardString +
+        "<a href='" +
+        data[i].link +
+        "' class=' btn btn-primary card-link text-blue'>Link to the article</a>";
+      "</div>" +
+        "<div class='card-footer'>Scraped on " +
+        data[i].date +
+        "</div>" +
+        "</div></div></div>";
+
+      //add the saved note render
+
+      let notecard_str =
+        "<div class='card mb-2 noteCard'  >" +
+        "<div class='card-body'><h5 class='card-title'>'Save Annotations'</h5>";
+      notecard_str =
+        notecard_str +
+        "<input id='titleinput' name='title' >" +
+        "<textarea id='bodyinput' name='body'></textarea></div></div>";
+
+      // If there's a note in the article//there should always be
+      if (data[i].note) {
+        // Place the title of the note in the title input
+        $("#titleinput").val(data[i].note.title);
+        // Place the body of the note in the body textarea
+        $("#bodyinput").val(data[i].note.body);
+      }
+      // The title of the article
+      $("#annonatedArticlesRow").append(cardString);
     }
   });
 });
