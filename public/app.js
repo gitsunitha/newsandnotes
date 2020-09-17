@@ -2,7 +2,7 @@
 $.getJSON("/articles", function (data) {
   debugger;
   // For each one
-  $("#article").empty();
+  $("#articles").empty();
   for (var i = 0; i < data.length; i++) {
     // Display the apropos information on the page
 
@@ -123,8 +123,8 @@ $(document).on("click", ".scrapeNow", function () {
   $.getJSON("/scrape", function (data) {
     console.log(data);
     if (data.length > 0) {
-      $(".scrapeArticles").emmpty();
-      $(".scrapeArticles").append(
+      $(".articles").emmpty();
+      $(".articles").append(
         "<p>Scraped " +
           data[0].ArticlesScraped +
           " Articles</p>" +
@@ -246,48 +246,66 @@ $(document).on("click", ".readArticles", function () {
   debugger;
   var elmnt = document.getElementById("articlesSection");
   elmnt.scrollIntoView();
-  $("#article").empty();
+  $("#articles").empty();
   $.getJSON("/articles", function (data) {
-    // For each one
-    for (var i = 0; i < data.length; i++) {
-      // Display the apropos information on the page
-      console.log(data[i]);
-      //build the string to append
-      let cardString =
-        "<div class='card mb-2 newsCard' data-id='" + data[i]._id + "'>";
-      if (data[i].image) {
+    if (data.length > 0) {
+      // For each one
+      for (var i = 0; i < data.length; i++) {
+        // Display the apropos information on the page
+        console.log(data[i]);
+        //build the string to append
+        let cardString =
+          "<div class='card mb-2 newsCard' data-id='" + data[i]._id + "'>";
+        if (data[i].image) {
+          cardString =
+            cardString +
+            "<img src='" +
+            data[i].image +
+            "' class='card-img-top' ></img>";
+        }
         cardString =
           cardString +
-          "<img src='" +
-          data[i].image +
-          "' class='card-img-top' ></img>";
-      }
-      cardString =
-        cardString +
-        "<div class='card-header'><h5>" +
-        data[i].title +
-        "</h5></div>" +
-        "<div class='card-body'>";
-      if (data[i].summary) {
-        cardString = cardString + "<p>" + data[i].summary + "</p>";
-      }
-      if (data[i].timestamp) {
+          "<div class='card-header'><h5>" +
+          data[i].title +
+          "</h5></div>" +
+          "<div class='card-body'>";
+        if (data[i].summary) {
+          cardString = cardString + "<p>" + data[i].summary + "</p>";
+        }
+        if (data[i].timestamp) {
+          cardString =
+            cardString + "<p class='text-muted'>" + data[i].timestamp + "</p>";
+        }
         cardString =
-          cardString + "<p class='text-muted'>" + data[i].timestamp + "</p>";
-      }
-      cardString =
-        cardString +
-        "<a href='" +
-        data[i].link +
-        "' class=' btn btn-primary card-link text-blue'>Link to the article</a>" +
-        "<a href='#' class=' btn btn-primary card-link text-blue createNote'>Create Note</a>" +
-        "</div>" +
-        "<div class='card-footer'>Scraped on " +
-        data[i].date +
-        "</div>" +
-        "</div>";
+          cardString +
+          "<a href='" +
+          data[i].link +
+          "' class=' btn btn-primary card-link text-blue'>Link to the article</a>" +
+          "<a href='#' class=' btn btn-primary card-link text-blue createNote'>Create Note</a>" +
+          "</div>" +
+          "<div class='card-footer'>Scraped on " +
+          data[i].date +
+          "</div>" +
+          "</div>";
 
-      $("#articles").append(cardString);
+        $("#articles").append(cardString);
+      }
+    } else {
+      $("#articles").append(
+        "<div class='card mb-2' >" +
+          "<div class='card-header'><h5>" +
+          "No News Articles have been scraped today" +
+          "</h5></div>" +
+          "<div class='card-body scrapeArticles'>" +
+          "<p>" +
+          "Please get the latest articles" +
+          "</p>" +
+          "<p><button class='btn btn-lg btn-primary scrapeNow'>Get latest articles now</button></p>" +
+          "</div>" +
+          "</div>"
+      );
+
+      //no articles ask to scrape
     }
   });
 });
