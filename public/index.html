@@ -1,49 +1,116 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <title>Scraping With Mongoose</title>
-    <style>
-      body { background-color: #F2F6D0 }
-      #wrapper {
-        width: 960px;
-        margin-left: auto;
-        margin-right: auto;
-        padding-top: 5%;
-      }
-      #articles {
-        display: inline-block;
-        overflow: auto;
-        width: 60%;
-        height: 700px;
-      }
-      #notes {
-        float: right;
-        width: 30%;
-      }
-      textarea, input {
-        display: block;
-        width: 100%;
-        background-color: #FCF5C7;
-      }
-      input {
-        height: 36px;
-        font-size: 24px;
-      }
-      textarea {
-        height: 200px;
-        font-size: 18px;
-      }
-    </style>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css"
+      integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX"
+      crossorigin="anonymous"
+    />
+
+    <!-- Custom css -->
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <title>News and Notes</title>
   </head>
+
   <body>
-    <div id="wrapper">
-      <h1>Note Scraper</h1>
-      <h2><i>If you can do this...the homework should be no problem.</i></h2>
-      <div id="articles"></div>
-      <div id="notes"></div>
-    </div>
+    <main>
+      <section id="homebody">
+        <div
+          class="landing-text d-flex align-items-center position-relative vh-100"
+        >
+          <div class="container-fluid">
+            <div class="row justify-content-center">
+              <h1>News and Notes</h1>
+            </div>
+            <div class="row justify-content-center">
+              <h3>Read the latest news and annotate them for your reference</h3>
+            </div>
+            <div class="row justify-content-center mt-3">
+              <div class="col-lg-4 mx-auto mt-3">
+                <!-- <a href="#articlesSection" class="btn btn-lg btn-danger text-white readArticles">Newest Articles</a> -->
+                <button class="btn btn-lg btn-danger text-white readArticles">
+                  Newest Articles
+                </button>
+              </div>
+              <div class="col-lg-4 mx-auto mt-3">
+                <a href="/annonatedArticles" class="btn btn-lg btn-danger text-white readAnnonatedArticles"
+                  >Annonated Articles</a
+                >
+              </div>
+              <div class="col-lg-4 mx-auto mt-3">
+                <a href="#" class="btn btn-lg btn-danger text-white clearOldArticles"
+                  >Clear Old Articles</a
+                >
+              </div>
+            </div>
+          </div>
+          <footer></footer>
+        </div>
+      </section>
+      <!-- <section id="homeSection" class="d-flex align-items-center position-relative vh-100 "
+      style="background-image: url(./assets/NEWS-unsplash.jpg);">
+      <div class="container-fluid container-fluid-max">
+        <div class="row">
+          <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+            <h1 class="text-black">News and notes</h1>
+            <div class="mt-3">
+              <a class="btn bg-red text-white mr-2" href="/scrape" role="button">Clear and scrape</a>
+              <a class="btn bg-red text-white js-scroll-trigger" id="readArticles" href="#articlesSection"
+                role="button">Read Articles</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> -->
+
+      <section id="articlesSection" class="d-flex position-relative vh-100 overflow-auto">
+        <div class="container articleContainer">
+          <header class="align-top justify-content-center">
+            <div class="row mt-3">
+              <div class="col-lg-4 mx-auto mt-3">
+                <a
+                  href="#homebody"
+                  class="btn btn-lg btn-danger text-white mb-2"
+                  >Go back to the Main Section</a
+                >
+              </div>
+            </div>
+          </header>
+          <div class="row">
+            <div class="col-9">
+              <div id="articles"></div>
+            </div>
+            <div class="col-3">
+            <div id="notes"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer></footer>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/js/bootstrap.min.js"
+      integrity="sha384-XEerZL0cuoUbHE4nZReLT7nx9gQrQreJekYhJD9WNWhH8nEW+0c5qq7aIo2Wl30J"
+      crossorigin="anonymous"
+    ></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
+<!-- <span>Photo by <a href="https://unsplash.com/@martenbjork?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Marten Bjork</a> on <a href="https://unsplash.com/s/photos/newspaper?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> -->
