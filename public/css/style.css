@@ -1,0 +1,35 @@
+:root {
+  --lightblue: #f6f9fc;
+  --red: #d64041;
+}
+
+#homebody {
+  background-image: url("../assets/NEWS-unsplash.jpg");
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.landing-text {
+  display: table-cell;
+  text-align: center;
+  vertical-align: center;
+}
+
+#articlesSection{
+  background-image: linear-gradient(lightgray , lightblue), url("../assets/NEWS-unsplash.jpg");
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+#articles{
+  width:60%
+}
